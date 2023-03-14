@@ -12,7 +12,20 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
+| Persona | Roberto Xerxes Jr. | Roseane Azevedo Coutinho | Ana Júlia |
+| Idade | 50 | 30 | 11 |
+| Ocupação | Juiz de Direito | Faxineira | Estudante Ensino Fundamental |
+| Aplicativos | Facebook, Instagram, Twitter | LinkedIn, Uber, Instagram | Facebook, TikTok, Twitter
+| Motivações | Conhecer o mundo, escrever um livro, mudar pro exterior. Ajudar as pessoas. Conscientizar pessoas sobre a importância de ler livros e ter acesso a conhecimento e cultura. | Deseja dar uma boa formação acadêmica aos seus filhos; Deseja ter uma melhor qualidade de vida; Quer ainda cursar ensino superior. | Quer aproveitar o ensino escolar; Deseja ser professor |
+| Insatisfações | Tem livros guardados em casa, porém, não sente confortável em passa-los pra frente por não ter meio confiável de doá-los. Acha livros muito caros.| Pouco de acesso à literatura; Pouco lazer | Encontra-se em um grande limite financeiro; Não tem acesso a uma diversidade literária |
+| Hobbies | Viajar, conhecer museus. Frequentar eventos sociais, festas, eventos beneficentes. | Gosta de ler; Cuidar dos filhos; Gosta de ficar por dentro das notícias e debater sobre temas relevantes. | Gosta de desenhar, pintar; Reunir os amigos e conversar, jogar bola, ler, ir ao cinema, assistir séries e filmes. |
 
+## Histórias de Usuários
+
+| Persona/Usuário | O que | Por quê |
+| Roberto Xerxes Jr. | possui uma série de livros jurídicos disponíveis para coleta e doação dos usuários interessados, ocorre que há enorme dificuldade de fazer chegar esta informação principalmente aos estudantes de direito. | Avalia que necessita de iniciativa tecnológica transformadora para todos os segmentos que facilite e propicie esta intermediação e, principalmente o jurídico, pois a leitura é algo indispensável na nossa esfera. |
+| Roseane Azevedo Coutinho | fala da importância de doar livros. Acha que livros são importantes demais para ficarem parados. | Busca uma forma confortável e segura de adquirir livros de forma gratuita. | 
+| Ana Júlia | Sente que os livros que leu foram importantes para o desenvolvimento de sua personalidade. | Quer encontrar livros gratuitos, uma vez que livros para comprar são caros. |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -54,9 +67,9 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| Permitir que o usuário cadastre tarefas(LIVROS) | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar e entrar no sistema. A página terá a possibilidade de                  recuperar senha. A autenticação deve ser feita via e-mail e senha.| Alta
+|RF-003| O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.| Alta
 |RF-004| O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios. | ALta
 RF-005| O sistema deve permitir ao usuário “tipado” como doador criar, alterar, deletar e visualizar suas doações. Entende-se como doações livros teóricos, didáticos, literários, periódicos.| MÉDIA
 |RF-005| Ao clicar na doação, o sistema deve começar a iniciar o processo de doação para recebedor/receptor.| MÉDIA
