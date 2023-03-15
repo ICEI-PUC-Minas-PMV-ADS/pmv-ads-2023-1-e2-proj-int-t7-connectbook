@@ -34,7 +34,7 @@ A dificuldade de acesso aos livros não é um problema de todos, nem mesmo da ma
 Doar livros, além de ser uma importante atitude de compartilhar ideias, ajuda pessoas que nem conhecemos a sentir o prazer de uma boa leitura e consequentemente de nos transmitir esta sensação também.
 
 *“A verdade é que os livros e o incentivo da leitura podem transformar a realidade e levar as pessoas a mudar de vida com educação.
-Em uma comparação média com outros países, o brasileiro costuma ler somente cerca de quatro livros por ano, enquanto o canadense lê 12, o que indica um índice de leitura bem abaixo da média."Fonte: Pesquisa Retratos da leitura no Brasil (IPL)*
+Em uma comparação média com outros países, o brasileiro costuma ler somente cerca de quatro livros por ano, enquanto o canadense lê 12, o que indica um índice de leitura bem abaixo da média."* **Fonte: Pesquisa Retratos da leitura no Brasil (IPL)**
 
 *“O Instituto Paulo Montenegro, que é referência no assunto e mede regularmente o nível de alfabetização dos brasileiros, sustenta que o percentual de analfabetismo funcional na população geral fica em 27%.”*
 
