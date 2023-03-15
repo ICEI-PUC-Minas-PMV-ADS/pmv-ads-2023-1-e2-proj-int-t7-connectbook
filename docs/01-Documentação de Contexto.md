@@ -33,16 +33,16 @@ A dificuldade de acesso aos livros não é um problema de todos, nem mesmo da ma
 
 Doar livros, além de ser uma importante atitude de compartilhar ideias, ajuda pessoas que nem conhecemos a sentir o prazer de uma boa leitura e consequentemente de nos transmitir esta sensação também.
 
-“A verdade é que os livros e o incentivo da leitura podem transformar a realidade e levar as pessoas a mudar de vida com educação.
-Em uma comparação média com outros países, o brasileiro costuma ler somente cerca de quatro livros por ano, enquanto o canadense lê 12, o que indica um índice de leitura bem abaixo da média."Fonte: Pesquisa Retratos da leitura no Brasil (IPL)
+*“A verdade é que os livros e o incentivo da leitura podem transformar a realidade e levar as pessoas a mudar de vida com educação.
+Em uma comparação média com outros países, o brasileiro costuma ler somente cerca de quatro livros por ano, enquanto o canadense lê 12, o que indica um índice de leitura bem abaixo da média."Fonte: Pesquisa Retratos da leitura no Brasil (IPL)*
 
-“O Instituto Paulo Montenegro, que é referência no assunto e mede regularmente o nível de alfabetização dos brasileiros, sustenta que o percentual de analfabetismo funcional na população geral fica em 27%.” 
+*“O Instituto Paulo Montenegro, que é referência no assunto e mede regularmente o nível de alfabetização dos brasileiros, sustenta que o percentual de analfabetismo funcional na população geral fica em 27%.”*
 
 Nesta proposta, o usuário terá um sistema com acesso via Web e mobile, onde terá o cadastro para  realizar a doação ou trocas dos livros disponíveis. 
 
-Silva, Tomazela e Pontes (2018, p. 3) defendem que: “[...] a popularização de aplicações que funcionem de maneira colaborativa, no sentido de oferecer acesso e popularizar livros, são iniciativas urgentes e necessárias.”
+**Silva, Tomazela e Pontes (2018, p. 3)** defendem que: *“[...] a popularização de aplicações que funcionem de maneira colaborativa, no sentido de oferecer acesso e popularizar livros, são iniciativas urgentes e necessárias.”*
 
-Cosson (2016, p. 27 citado por Andrade e Silva, 2019, p. 2) afirma que: “[...] ler implica troca de sentidos não só entre o escritor e o leitor, mas também com a sociedade onde ambos estão localizados, pois os sentidos são resultado de compartilhamentos de visões de mundo entre os homens no tempo e no espaço.”
+**Cosson (2016, p. 27 citado por Andrade e Silva, 2019, p. 2)** afirma que: *“[...] ler implica troca de sentidos não só entre o escritor e o leitor, mas também com a sociedade onde ambos estão localizados, pois os sentidos são resultado de compartilhamentos de visões de mundo entre os homens no tempo e no espaço.”*
 
 ## Público-Alvo
 
