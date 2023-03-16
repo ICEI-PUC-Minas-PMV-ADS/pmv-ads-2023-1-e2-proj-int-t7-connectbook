@@ -10,15 +10,13 @@ Dessa forma, o projeto contribui para a promoção da circulação de livros, in
 
 ## Problema
 
-A ideia do projeto nasce de alguns problemas recorrentes no cenário brasileiro.
+O projeto ConnectBook surge diante de problemas recorrentes no cenário brasileiro, sobretudo relacionados ao acesso à literatura. Uma das principais questões é a dificuldade de acesso a livros por uma parcela da população, especialmente os mais pobres e com poucas condições financeiras, que muitas vezes não dispõem de recursos para adquirir obras literárias. Essa situação se agrava pelo fato de que, sem acesso aos livros, o número de leitores no país diminui cada vez mais.
 
-O problema inicial é a dificuldade de acesso aos livros por uma parcela da população, sobretudo os mais pobres e com poucas condições financeiras, pois com gastos em necessidades básicas, acaba por não restar dinheiro para compra de livros. 
+Por outro lado, há pessoas que, por motivos diversos, precisam se desfazer de seus livros usados e muitas vezes em bom estado. No entanto, a doação desses livros nem sempre é uma tarefa fácil, pois falta uma plataforma ou um sistema que facilite a conexão entre doadores e receptores.
 
-Este problema implica um outro: se não há livros, não há o que ler, por isso o número de livros que o brasileiro lê em média ao ano está cada vez menor.
+Nesse sentido, o ConnectBook surge como uma solução para conectar pessoas que têm mais livros com aquelas que têm menos. O projeto tem como objetivo democratizar o acesso à boa literatura, promovendo a circulação de livros e incentivando a cultura da doação e do compartilhamento.
 
-Por outro lado, há pessoas que precisam – por razões diversas – desfazer-se de seus livros usados, por vezes com urgência. A doação atua como uma solução rápida e livros que poderiam ser descartados, serão bem aproveitados por pessoas que neles têm interesses.
-
-Outro fato a ser considerado é a falta de opções tecnológicas que integrem pessoas que queiram fazer doações de livros a recebedores, tornando ágil e seguro a doação de livros.
+Além disso, a plataforma oferece uma solução tecnológica que facilita a doação de livros de forma ágil e segura. Os doadores podem cadastrar seus livros na plataforma e os receptores podem buscar livros de acordo com seu interesse e localização.
 
 ## Objetivos
 
@@ -28,11 +26,11 @@ Construir um software intuitivo e universal, proporcionando uma boa experiência
 
 ## Justificativa
 
-A ausência de livros implica a ausência do hábito da leitura, que vem sendo cada vez menos comum no cotidiano do brasileiro, cuja média de livros lidos anualmente é decrescente, consequentemente acompanhando um problema ainda mais grave e inversamente proporcional: a crescente taxa de analfabetismo funcional no Brasil. 
+A ausência de livros implica a ausência do hábito da leitura, que vem sendo cada vez mais comum no cotidiano do brasileiro, cuja média de livros lidos anualmente é decrescente, consequentemente acompanhando um problema ainda mais grave e inversamente proporcional: a crescente taxa de analfabetismo funcional no Brasil. 
 
-A dificuldade de acesso aos livros não é um problema de todos, nem mesmo da maioria, mas apenas  de uma parcela da sociedade, e por essa razão: a facilidade de uns e dificuldade de outros, que deu origem à ideia do ConnectBook.
+A dificuldade de acesso aos livros não é um problema de todos, nem mesmo da maioria, mas apenas de uma parcela da sociedade, e com este motivo: a facilidade de uns e dificuldade de outros, surgiu a ideia do ConnectBook.
 
-Doar livros, além de ser uma importante atitude de compartilhar ideias, ajuda pessoas que nem conhecemos a sentir o prazer de uma boa leitura e consequentemente de nos transmitir esta sensação também.
+Doar livros, além de ser uma importante atitude de compartilhar ideias, ajuda pessoas que nem conhecemos a sentir o prazer de uma boa leitura e consequentemente de transmitir a nós e ao próximo essa mesma sensação.
 
 *“A verdade é que os livros e o incentivo da leitura podem transformar a realidade e levar as pessoas a mudar de vida com educação.
 Em uma comparação média com outros países, o brasileiro costuma ler somente cerca de quatro livros por ano, enquanto o canadense lê 12, o que indica um índice de leitura bem abaixo da média."* **Fonte: Pesquisa Retratos da leitura no Brasil (IPL)**
