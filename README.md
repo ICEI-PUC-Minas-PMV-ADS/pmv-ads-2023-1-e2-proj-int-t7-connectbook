@@ -9,7 +9,7 @@ Projeto: Desenvolvimento de uma Aplicação Interativa.
 `SEMESTRE`
 2
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto ConnectBook é um projeto inovador que visa incentivar a doação de livros através de uma aplicação web de uso simples, capaz de conectar doador e receptor promovendo o compartilhamento de ideias e a democratização do acesso à literatura por parte de seus usuários. 
 
 ## Integrantes
 
