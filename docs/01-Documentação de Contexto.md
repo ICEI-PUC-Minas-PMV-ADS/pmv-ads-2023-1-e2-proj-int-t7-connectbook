@@ -1,11 +1,12 @@
 # Introdução
 
-O ConnectBook é um projeto de aplicação voltada à doação de livros. A iniciativa surgiu com a observação de alguns fatos:
-I – Parte da população não tem acesso à variedade de livros;
-II – Os efeitos da ausência da prática literária já se mostram visíveis no cenário brasileiro;
-III – Há diversos livros abandonados que poderiam ser bem aproveitados por outras pessoas;
+O ConnectBook é um projeto de inovador que visa incentivar a doação de livros a facilitar o acesso a literatura para aqueles que não têm acesso à uma gama de livros diferente do contexto social em que estão inseridos. A ideia por trás do projeto surgiu da observação alguns fatores e problemas que afetam a sociedade brasileira atual.
 
-O intuito do ConnectBook é conectar quem tem mais com quem tem menos, a fim de democratizar o acesso da boa literatura, promovendo a circulação de livros e estimular o hábito de leitura. 
+Segundo dados da pesquisa Retratos da Leitura no Brasil entre os anos de 2015 e 2019 o Brasil perdeu cerca de 4.6 milhões de leitores, alguns motivos podem ser apontados como fatores capazes de justificar essa queda dentre eles, a dificuldade no acesso. A perda do hábito de leitura ao longo dos anos pode ser um problema considerável no que diz respeito ao desenvolvimento intelectual e cultural da população, especialmente as mais carentes. A ausencia de uma prática literária estruturada pode ser observada em diversos aspectos da sociedade brasileira, afetando diretamente a qualidade do ensino e capacidade de pensamento e analise critica.
+
+Por outro lado, o projeto também leva em consideração a grande quantidade de livros que são abandonados e que poderiam ser bem aproveitados por outras pessoas. O ConnectBook, portanto, tem como objetivo conectar aqueles que têm mais livros com aqueles que têm menos, democratizando o acesso à boa literatura e estimulando o hábito de leitura.
+
+Dessa forma, o projeto contribui para a promoção da circulação de livros, incentivando a cultura do compartilhamento e doação, além de proporcionar a oportunidade de acesso à boa literatura para pessoas que, de outra forma, não teriam essa possibilidade. É uma iniciativa importante para o desenvolvimento social e cultural do país, que pode ajudar a construir uma sociedade mais igualitária e consciente.
 
 ## Problema
 
