@@ -1,10 +1,13 @@
 # CONNECTBOOK
 
 `CURSO`
+Análise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
+Projeto: Desenvolvimento de uma Aplicação Interativa.
 
 `SEMESTRE`
+2
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
