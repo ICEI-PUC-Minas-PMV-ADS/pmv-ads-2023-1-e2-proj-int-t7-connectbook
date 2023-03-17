@@ -20,7 +20,9 @@ Além disso, a plataforma oferece uma solução tecnológica que facilita a doa�
 
 ## Objetivos
 
-Atuar na democratização da boa literatura; promover o acesso à cultura e a educação por meio de doações de livros para as pessoas que não disponham de biblioteca ou cujo acesso seja precário, fazendo a ligação entre doador e receptor.
+Atuar na democratização da boa literatura; promover o acesso à cultura e a educação por meio de doações de livros para as pessoas que não disponham de biblioteca ou cujo acesso seja precário, fazendo a ligação entre doador e receptor. 
+
+Como objetivos específicos, podemos ressaltar:
 
 Construir um software intuitivo e universal, proporcionando uma boa experiência de usuário; permitir o cadastro de livros; estabelecer conexão entre doador e receptor por meio de formulários.
 
