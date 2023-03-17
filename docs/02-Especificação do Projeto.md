@@ -9,14 +9,18 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na tabela que se segue.
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-| Persona | Roberto Xerxes Jr. | Roseane Azevedo Coutinho | Ana Júlia |
-| Idade | 50 | 30 | 11 |
-| Ocupação | Juiz de Direito | Faxineira | Estudante Ensino Fundamental |
+| Persona     | Roberto Xerxes Jr. | Roseane Azevedo Coutinho | Ana Júlia                    |
+|-------------|--------------------|--------------------------|------------------------------|
+| Idade       | 50                 | 30                       | 11                           |
+| Ocupação    | Juiz de Direito    | Faxineira                | Estudante Ensino Fundamental |
 | Aplicativos | Facebook, Instagram, Twitter | LinkedIn, Uber, Instagram | Facebook, TikTok, Twitter
-| Motivações | Conhecer o mundo, escrever um livro, mudar pro exterior. Ajudar as pessoas. Conscientizar pessoas sobre a importância de ler livros e ter acesso a conhecimento e cultura. | Deseja dar uma boa formação acadêmica aos seus filhos; Deseja ter uma melhor qualidade de vida; Quer ainda cursar ensino superior. | Quer aproveitar o ensino escolar; Deseja ser professor |
+| Motivações  | Conhecer o mundo, escrever um livro, mudar pro exterior. Ajudar as pessoas. Conscientizar pessoas sobre a importância de ler livros e ter acesso a conhecimento e cultura.            | Deseja dar uma boa formação acadêmica aos seus filhos; Deseja ter uma melhor qualidade de vida; Quer ainda cursar ensino superior. | |                                                            Quer aproveitar o ensino escolar; Deseja ser professor |
 | Insatisfações | Tem livros guardados em casa, porém, não sente confortável em passa-los pra frente por não ter meio confiável de doá-los. Acha livros muito caros.| Pouco de acesso à literatura; Pouco lazer | Encontra-se em um grande limite financeiro; Não tem acesso a uma diversidade literária |
 | Hobbies | Viajar, conhecer museus. Frequentar eventos sociais, festas, eventos beneficentes. | Gosta de ler; Cuidar dos filhos; Gosta de ficar por dentro das notícias e debater sobre temas relevantes. | Gosta de desenhar, pintar; Reunir os amigos e conversar, jogar bola, ler, ir ao cinema, assistir séries e filmes. |
 
