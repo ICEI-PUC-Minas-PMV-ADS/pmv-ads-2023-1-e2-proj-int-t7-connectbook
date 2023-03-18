@@ -1,7 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
@@ -26,33 +24,11 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ## Histórias de Usuários
 
-| Persona/Usuário | O que | Por quê |
-| Roberto Xerxes Jr. | possui uma série de livros jurídicos disponíveis para coleta e doação dos usuários interessados, ocorre que há enorme dificuldade de fazer chegar esta informação principalmente aos estudantes de direito. | Avalia que necessita de iniciativa tecnológica transformadora para todos os segmentos que facilite e propicie esta intermediação e, principalmente o jurídico, pois a leitura é algo indispensável na nossa esfera. |
+| Persona/Usuário          | O que | Por quê |
+|--------------------------|-------|---------|
+| Roberto Xerxes Jr.       | possui uma série de livros jurídicos disponíveis para coleta e doação dos usuários interessados, ocorre que há enorme dificuldade de fazer chegar esta informação principalmente aos estudantes de direito. | Avalia que necessita de iniciativa tecnológica transformadora para todos os segmentos que facilite e propicie esta intermediação e, principalmente o jurídico, pois a leitura é algo indispensável na nossa esfera. |
 | Roseane Azevedo Coutinho | fala da importância de doar livros. Acha que livros são importantes demais para ficarem parados. | Busca uma forma confortável e segura de adquirir livros de forma gratuita. | 
-| Ana Júlia | Sente que os livros que leu foram importantes para o desenvolvimento de sua personalidade. | Quer encontrar livros gratuitos, uma vez que livros para comprar são caros. |
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
-## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+| Ana Júlia                | Sente que os livros que leu foram importantes para o desenvolvimento de sua personalidade. | Quer encontrar livros gratuitos, uma vez que livros para comprar são caros. |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -104,8 +80,8 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações nítidas para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
+|ID   | Restrição                                             |
+|-----|-------------------------------------------------------|
 |RE-01| O projeto deverá ser entregue até o final do semestre |
 |RE-02| Não pode ser desenvolvido um módulo de backend        |
 |RE-03| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como|
