@@ -48,7 +48,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|-----------|
-|RNF-01| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-01| O sistema deve ser responsivo para que possa ser executado em um dispositivos móvel | MÉDIA | 
 |RNF-02| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-03| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA
 
