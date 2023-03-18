@@ -33,9 +33,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade que os mesmos devem ser entregues.
 
-|ID   | Descrição do Requisito  | Prioridade         |
-|-----|-----------------------------------------|----|
-|RF-01| Permitir que o usuário cadastre tarefas(LIVROS) | ALTA | 
+|ID      | Descrição do Requisito  | Prioridade         |
+|--------|-----------------------------------------|----|
+|RF-01   | Permitir que o usuário cadastre tarefas(LIVROS) | ALTA | 
 |RF-02| Emitir um relatório de tarefas no mês   | MÉDIA        |
 |RF-03| O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.| Alta|
 |RF-04| O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios. | Alta|
@@ -48,21 +48,9 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-01| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-02| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-03| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA
 
 ## Restrições
 
@@ -74,12 +62,6 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |RE-02| Não pode ser desenvolvido um módulo de backend        |
 |RE-03| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como|
 |RE-04| A equipe não pode subcontratar o desenvolvimento do trabalho|
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
