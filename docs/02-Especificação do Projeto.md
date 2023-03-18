@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Na seção a seguir pode-se observar o diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 ## Personas
 
