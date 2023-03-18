@@ -7,11 +7,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na tabela que se segue.
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
 | Persona     | Roberto Xerxes Jr. | Roseane Azevedo Coutinho | Ana Júlia                    |
 |-------------|--------------------|--------------------------|------------------------------|
@@ -30,13 +25,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
 | Roseane Azevedo Coutinho | fala da importância de doar livros. Acha que livros são importantes demais para ficarem parados. | Busca uma forma confortável e segura de adquirir livros de forma gratuita. | 
 | Ana Júlia                | Sente que os livros que leu foram importantes para o desenvolvimento de sua personalidade. | Quer encontrar livros gratuitos, uma vez que livros para comprar são caros. |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -45,21 +33,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade que os mesmos devem ser entregues.
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição do Requisito  | Prioridade         |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas(LIVROS) | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA        |
 |RF-003| O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.| Alta
 |RF-004| O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios. | ALta
 RF-005| O sistema deve permitir ao usuário “tipado” como doador criar, alterar, deletar e visualizar suas doações. Entende-se como doações livros teóricos, didáticos, literários, periódicos.| MÉDIA
-|RF-005| Ao clicar na doação, o sistema deve começar a iniciar o processo de doação para recebedor/receptor.| MÉDIA
+|RF-005| Ao clicar na doação, o sistema deve começar a iniciar o processo de doação para recebedor/receptor. | MÉDIA
 |RF-006| Conter informações descritas com linguagem clara e simples reconhecida pelo usuário doador/receptor.| MÉDIA
 
 ### Requisitos não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+|-------|-------------------------|-----------|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA
