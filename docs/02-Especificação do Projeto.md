@@ -40,7 +40,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF03   | O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.|ALTA|
 |RF04   | O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios. |ALTA|
 |RF05   | O sistema deve permitir ao usuário “tipado” como doador criar, alterar, deletar e visualizar suas doações. Entende-se como doações livros teóricos, didáticos, literários, periódicos.|MÉDIA|
-|RF06   | Ao clicar na opção doação, o sistema deve começar a iniciar o processo de doação para recebedor/receptor. |MÉDIA|
+|RF06   | Ao clicar na opção doação, o sistema deve começar a iniciar o processo de doação entre recebedor/receptor. |MÉDIA|
 |RF-07  | Conter informações descritas com linguagem clara e simples reconhecida pelo usuário doador/receptor.|MÉDIA|
 
 ### Requisitos não Funcionais
@@ -60,7 +60,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |-----|-------------------------------------------------------|
 |RE01| O projeto deverá ser entregue até o final do semestre |
 |RE02| Não pode ser desenvolvido um módulo de backend        |
-|RE03| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como|
+|RE03| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como Back-End|
 |RE04| A equipe não pode subcontratar o desenvolvimento do trabalho|
 
 ## Diagrama de Casos de Uso
