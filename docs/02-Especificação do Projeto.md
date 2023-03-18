@@ -33,13 +33,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID      | Descrição do Requisito  | Prioridade|
 |--------|-------------------------|-----------|
-|RF01   |Permitir que o usuário cadastre livros |ALTA| 
-|RF02   | Emitir um relatório de tarefas no mês   |MÉDIA|
-|RF03   | O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.|ALTA|
-|RF04   | O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios. |ALTA|
-|RF05   | O sistema deve permitir ao usuário “tipado” como doador criar, alterar, deletar e visualizar suas doações. Entende-se como doações livros teóricos, didáticos, literários, periódicos.|MÉDIA|
-|RF06   | Ao clicar na opção doação, o sistema deve começar a iniciar o processo de doação entre recebedor/receptor. |MÉDIA|
-|RF-07  | Conter informações descritas com linguagem clara e simples reconhecida pelo usuário doador/receptor.|MÉDIA|
+|RF01   | Permitir que o usuário cadastre livros |ALTA| 
+|RF02   | O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha |ALTA|
+|RF03   | O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios |ALTA|
+|RF04   | O sistema deve permitir ao usuário do tipo doador criar, alterar, deletar e visualizar suas doações. Entende-se como doações livros teóricos, didáticos, literários, periódicos |MÉDIA|
+|RF05   | O sistema deve permitir ao usuário do tipo receptor buscar por livros de seu interesse e solicitá-los |ALTA|
+|RF06   | O sistema deve comunicar ao usuário do tipo doador que um de seus livros para doação foi solicitado e iniciar o processo de doação entre receptor/doador |ALTA|
+|RF07  | Conter informações descritas com linguagem clara e simples que possa ser reconhecida pelo público alvo |MÉDIA|
 
 ### Requisitos não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
