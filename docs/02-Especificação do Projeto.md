@@ -34,23 +34,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade que os mesmos devem ser entregues.
 
 |ID      | Descrição do Requisito  | Prioridade|
-|-----------|
+|--------|-------------------------|-----------|
 |RF01   |Permitir que o usuário cadastre tarefas(LIVROS) |ALTA| 
 |RF02   | Emitir um relatório de tarefas no mês   |MÉDIA|
 |RF03   | O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.|ALTA|
 |RF04   | O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios. |ALTA|
 |RF05   | O sistema deve permitir ao usuário “tipado” como doador criar, alterar, deletar e visualizar suas doações. Entende-se como doações livros teóricos, didáticos, literários, periódicos.|MÉDIA|
-|RF-05   | Ao clicar na doação, o sistema deve começar a iniciar o processo de doação para recebedor/receptor. |MÉDIA|
-|RF-06   | Conter informações descritas com linguagem clara e simples reconhecida pelo usuário doador/receptor.|MÉDIA|
+|RF06   | Ao clicar na opção doação, o sistema deve começar a iniciar o processo de doação para recebedor/receptor. |MÉDIA|
+|RF-07  | Conter informações descritas com linguagem clara e simples reconhecida pelo usuário doador/receptor.|MÉDIA|
 
 ### Requisitos não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|-----------|
-|RNF-01| O sistema deve ser responsivo para que possa ser executado em um dispositivos móvel | MÉDIA | 
-|RNF-02| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-03| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA
+|RNF01| O sistema deve ser responsivo para que possa ser executado em um dispositivos móvel | MÉDIA | 
+|RNF02| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF03| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA
 
 ## Restrições
 
@@ -58,10 +58,10 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 |ID   | Restrição                                             |
 |-----|-------------------------------------------------------|
-|RE-01| O projeto deverá ser entregue até o final do semestre |
-|RE-02| Não pode ser desenvolvido um módulo de backend        |
-|RE-03| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como|
-|RE-04| A equipe não pode subcontratar o desenvolvimento do trabalho|
+|RE01| O projeto deverá ser entregue até o final do semestre |
+|RE02| Não pode ser desenvolvido um módulo de backend        |
+|RE03| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como|
+|RE04| A equipe não pode subcontratar o desenvolvimento do trabalho|
 
 ## Diagrama de Casos de Uso
 
