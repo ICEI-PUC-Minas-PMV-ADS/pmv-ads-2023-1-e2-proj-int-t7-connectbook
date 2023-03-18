@@ -2,8 +2,6 @@
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na tabela que se segue.
@@ -35,7 +33,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID      | Descrição do Requisito  | Prioridade|
 |--------|-------------------------|-----------|
-|RF01   |Permitir que o usuário cadastre tarefas(LIVROS) |ALTA| 
+|RF01   |Permitir que o usuário cadastre livros |ALTA| 
 |RF02   | Emitir um relatório de tarefas no mês   |MÉDIA|
 |RF03   | O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.|ALTA|
 |RF04   | O sistema fornecerá a seguinte forma de se cadastrar como doador: sendo através da tela de cadastro que poderá ser acessada via tela de autenticação. Nesta tela, o usuário deve inserir seus dados nos campos obrigatórios. |ALTA|
