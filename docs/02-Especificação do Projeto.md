@@ -59,9 +59,8 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |ID   | Restrição                                             |
 |-----|-------------------------------------------------------|
 |RE01| O projeto deverá ser entregue até o final do semestre |
-|RE02| Não pode ser desenvolvido um módulo de backend        |
-|RE03| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como Back-End|
-|RE04| A equipe não pode subcontratar o desenvolvimento do trabalho|
+|RE02| O aplicativo deve se restringir as tecnologias básicas de desenvolvimento Web como Back-End|
+|RE03| A equipe não pode subcontratar o desenvolvimento do trabalho|
 
 ## Diagrama de Casos de Uso
 
