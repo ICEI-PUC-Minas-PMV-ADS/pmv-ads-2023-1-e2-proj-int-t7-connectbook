@@ -34,7 +34,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade que os mesmos devem ser entregues.
 
 |ID      | Descrição do Requisito  | Prioridade|
-|--------|-----------------------------------------|----|
+|---|---|---|
 |RF-01   |Permitir que o usuário cadastre tarefas(LIVROS) |ALTA| 
 |RF-02   | Emitir um relatório de tarefas no mês   |MÉDIA|
 |RF-03   | O sistema contará com a página de autenticação onde qualquer tipo de usuário poderá se cadastrar criar um perfil de usuário e entrar no sistema. A página terá a possibilidade de recuperar senha. A autenticação deve ser feita via e-mail e senha.|ALTA|
