@@ -3,9 +3,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-A  metodologia  contempla  as  definições  de  ferramentas  utilizadas pela  equipe  tanto  para  a 
-manutenção dos códigos e demais artefatos quanto para a organização do time na execução 
-das tarefas do projeto.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+|-ambiente-|-Plataforma_|-Link de Acesso-|
+
+*Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa
+
+*Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa/tree/main/docs
+
+*Projeto de Interface e Wireframes | MarvelApp | Marvel APP - ZCaixa Mobile
+
+*Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/123
+
+*Gerenciamento do Projeto | Sprints / Diagrama de Gantt | À definir
 
 ## Controle de Versão
 
