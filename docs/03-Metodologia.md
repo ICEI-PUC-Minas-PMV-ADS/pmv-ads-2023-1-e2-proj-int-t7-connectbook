@@ -62,7 +62,7 @@ Os membros do grupo se dividiram entre as tarefas a serem realizadas, porém, to
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Ao realizar reuniões para continuidade do projeto, são definidos as listas de tarefas onde todos os membros da equipe participam, iniciando com o card "Backlog", onde estão elencadas as atividas identificadas no percurso do projeto. O card "To Do", representa as listas de atividas que deveram ser executadas. Ao inicar uma tarefa as atividades definidas e iniciadas devem serem realocadas no card "In Progress", após sua execução, é movida para a lista o designado pelo card "Done", devendo o mesmo ser atualizado.
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -75,12 +75,15 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 As ferramentas empregadas no projeto são:
 
 - Editor de código (Visual Studio Code)
-- Ferramentas de comunicação (Slack)
-- Ferramentas de desenho de tela (Whimsical e MarvelApp) (_wireframing_)
+- Ferramentas de comunicação: Slack, Whatsapp, Teams.
+- Ferramentas de desenho de tela (_wireframing_): Whimsical, MarvelApp e Heflo
+- Ferramentas para diagramas (conceitual e lógico): Diagrams.net, Astah, Lucid Charts, BRMW
 - Banco de dados relacional, utilizando o SQL Server como o SGBD ( Sistema de Gerenciamento de Banco de Dados). O banco está hospedado dentro da Azure, a plataforma nuvem da Microsoft.
 - O frameworks escolhido para o front-end, foi o reactnative framework.
 
-- O editor de código foi escolhido porque ele possui uma integração com osistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+O editor de código foi escolhido pelo grupo pois é o mais prático e acessível para os integrantes, além de facilitar a alternação de quem está editando o código e salvando diretamente no reposítorio através do GitHub Desktop. Tem um bom dicionário de erros no código e permite acompanhar alterações em tempo real através do navegador.
+
+-* O editor de código foi escolhido porque ele possui uma integração com osistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
