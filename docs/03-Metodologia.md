@@ -19,6 +19,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 *Gerenciamento do Projeto | Sprints / Diagrama de Gantt | À definir
 
+## Gestão de Código Fonte  
+
+A gestão do código fonte do projeto é baseada no conteúdo proporcionado na orientação do projeto, que se dá pela opção commit no GitHub sendo atualizado os requisitos implementados ou ajustados no código fonte, ao mesmo tempo em que se atualiza os cards de sprints apresentados no quadro de tarefas.
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
