@@ -3,7 +3,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A  metodologia  contempla  as  definições  de  ferramentas  utilizadas pela  equipe  tanto  para  a 
+manutenção dos códigos e demais artefatos quanto para a organização do time na execução 
+das tarefas do projeto.
 
 ## Controle de Versão
 
@@ -25,6 +27,8 @@ etiquetas:
 - `bug`: uma funcionalidade encontra-se com problemas
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
+- `diagram`: um diagrama precisa ser criado
+- `wireframe`: uma tela precisa ser criada
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
@@ -37,9 +41,19 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
+Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  GitHub Project, estruturado com as seguintes listas: 
+
+● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
+● To Do:  Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos trabalhando.
+
+● In Progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
+● Done: nesta lista são colocadas as tarefas que estão  prontas  para  serem  entregues.  Não  há  mais  edições  ou revisões necessárias.
+
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+Os membros do grupo se dividiram entre as tarefas a serem realizadas, porém, todos exerceram o mesmo papel. 
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
@@ -60,15 +74,13 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Editor de código (Visual Studio Code)
+- Ferramentas de comunicação (Slack)
+- Ferramentas de desenho de tela (Whimsical e MarvelApp) (_wireframing_)
+- Banco de dados relacional, utilizando o SQL Server como o SGBD ( Sistema de Gerenciamento de Banco de Dados). O banco está hospedado dentro da Azure, a plataforma nuvem da Microsoft.
+- O frameworks escolhido para o front-end, foi o reactnative framework.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+- O editor de código foi escolhido porque ele possui uma integração com osistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
