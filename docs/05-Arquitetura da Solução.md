@@ -4,6 +4,16 @@
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
+- A arquitetura de solução é uma parte imprescindível do nosso projeto, nela nossa equipe prontamente pensou em uma solução que fará o desenvolvimento de nosso projeto o mais fluido, bonito e organizado possível.
+
+Nossa solução conta com as seguintes tecnologias:
+
+HTML: É uma tecnologia cujo código utilizado serve para estruturar uma página web e seu conteúdo.
+
+CSS: É uma tecnologia cujo código utilizado serve para estilizar uma página web e seu conteúdo.
+
+Javascript: É uma linguagem de programação interpretada com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
 ## Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
