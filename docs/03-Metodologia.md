@@ -78,7 +78,7 @@ Os membros do grupo se dividiram entre as tarefas a serem realizadas, porém, to
 
 ### Processo
 
-Ao realizar reuniões para continuidade do projeto, são definidos as listas de tarefas onde todos os membros da equipe participam, iniciando com o card "Backlog", onde estão elencadas as atividas identificadas no percurso do projeto. O card "To Do", representa as listas de atividas que deveram ser executadas. Ao inicar uma tarefa as atividades definidas e iniciadas devem serem realocadas no card "In Progress", após sua execução, é movida para a lista o designado pelo card "Done", devendo o mesmo ser atualizado.
+Ao realizar reuniões para continuidade do projeto, são definidos as listas de tarefas onde todos os membros da equipe participam, iniciando com o card "Backlog", onde estão elencadas as atividades identificadas no percurso do projeto. O card "To Do", representa as listas de atividas que deveram ser executadas. Ao inicar uma tarefa as atividades definidas e iniciadas devem serem realocadas no card "In Progress", após sua execução, é movida para a lista o designado pelo card "Done", devendo o mesmo ser atualizado.
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
