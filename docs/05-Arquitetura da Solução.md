@@ -49,6 +49,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 - O site utiliza a plataforma do Github Pages como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
+- O site utiliza a ferramenta GitHub Pages pelo domínio github.io como ambiente de hospedagem do site do projeto, disponibilizado gratuitamente pelo próprio github. E Microsoft Azure - Microsoft SQL Server para a hospedagem do banco de dados, utilizando o credito que PUC Minas disponibilizou para estudos.
 
 > **Links Úteis**:
 >
