@@ -23,8 +23,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 > - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
 > - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+> 
+![Diagrama de Classe](https://user-images.githubusercontent.com/113475662/229644521-ecd80e44-3178-48e3-aff4-5dea9729b3d6.png)
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/6a7733af-d012-4756-a6b6-72678522eeb2" id="kcIL1qlV8J.m"></iframe></div>
 
 ## Modelo ER (Projeto Conceitual)
 
