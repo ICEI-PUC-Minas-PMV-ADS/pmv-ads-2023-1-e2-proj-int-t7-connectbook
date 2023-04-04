@@ -52,6 +52,7 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 - IDEs de desenvolvimento: Visual Studio 2022; Linguagens utilizadas: HTML, CSS, JavaScript, C#, MySql; Ferramenta para modelagem do banco de dados:; Ferramenta de design: Figma; Plataforma para hospedagem dos arquivos: GitHub; Ferramenta de versionamento: Git; Ferramenta de divisão de tarefas: Github Project.
+- Ferramentas para geração deste artefato: LucidChart e Draw.io
 
 ## Hospedagem
 
