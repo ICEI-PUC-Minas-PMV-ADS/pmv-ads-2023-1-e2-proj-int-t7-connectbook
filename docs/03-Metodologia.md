@@ -5,9 +5,6 @@
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
-|        |          |              |
-|--------|----------|--------------|
-|ambiente|Plataforma|Link de Acesso|
 
 *Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-connectbook
 
