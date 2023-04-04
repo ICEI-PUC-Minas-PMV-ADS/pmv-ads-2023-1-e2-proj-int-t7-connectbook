@@ -33,7 +33,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID      | Descrição do Requisito  | Prioridade|
 |--------|-------------------------|-----------|
-|RF01   | A aplicação deverá apresentar uma tela onde o usuário poderá fazer login com "Email" e "Senha" e escolher qual tipo de usúario. |ALTA| 
+|RF01   | A aplicação deverá apresentar uma tela onde o usuário poderá fazer login com "Email" e "Senha" e escolher em qual tipo de usúario se enquadra. |ALTA| 
 |RF02   | Na tela de login deverá apresentar a opção de cadastrar usuário e levar a página de cadastro. |ALTA|
 |RF03   | A aplicação deverá apresentar uma tela onde o Recebedor poderá visualizar livros disponíveis. |ALTA|
 |RF04   | A aplicação deverá apresentar uma tela onde o Recebedor poderá selecionar livro do seu interesse. |ALTA|
@@ -52,7 +52,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF03| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA | 
 |RNF04| O sistema deve comunicar ao usuário do tipo Doador que um de seus livros para doação foi solicitado iniciando o processo de doação entre Recebedor/Doador via comunicação utilizando de plataformas de email |ALTA|
 |RNF05| A aplicação web deverá ter disponibilidade em todos os horários. |MÉDIA|
-|RNF06|Os dados inseridos pelos usuários na tela de login serão cadastrados no banco de dados.|ALTA|
+|RNF06| Os dados inseridos pelos usuários na tela de login serão cadastrados no banco de dados.|ALTA|
 
 ## Restrições
 
