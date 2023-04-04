@@ -24,7 +24,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
 > - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
 > 
-![Diagrama de Classe](https://user-images.githubusercontent.com/113475662/229644521-ecd80e44-3178-48e3-aff4-5dea9729b3d6.png)
+![Diagrama de Classe](https://user-images.githubusercontent.com/113475662/229937445-c1289cb5-5ca9-44bc-9bdf-d9331c4a9ac1.png)
 
 
 ## Modelo ER (Projeto Conceitual)
@@ -36,6 +36,9 @@ Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
 A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
 
 > - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+
+![Diagrama em ER](https://user-images.githubusercontent.com/113475662/229937475-fc63a1b9-1143-4c2d-b358-5b465721cebe.png)
+
 
 ## Projeto da Base de Dados
 
