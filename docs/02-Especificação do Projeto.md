@@ -34,11 +34,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID      | Descrição do Requisito  | Prioridade|
 |--------|-------------------------|-----------|
 |RF01   | A aplicação deverá apresentar uma tela onde o usuário poderá fazer login com "Email" e "Senha" e escolher qual tipo de usúario. |ALTA| 
-|RF02   | A aplicação deverá apresentar uma tela para cadastrar o usuário. |ALTA|
+|RF02   | Na tela de login deverá apresentar a opção de cadastrar usuário e levar a página de cadastro. |ALTA|
 |RF03   | A aplicação deverá apresentar uma tela onde o Recebedor poderá visualizar livros disponíveis. |ALTA|
 |RF04   | A aplicação deverá apresentar uma tela onde o Recebedor poderá selecionar livro do seu interesse. |ALTA|
 |RF05   | O sistema deve permitir ao usuário do tipo Recebedor pesquisar por livros. |ALTA|
-|RF06   | A aplicação deverá exibir uma tela para o Doador onde ele poderá alterar, editar , excluir e adicionar livros. |ALTA|
+|RF06   | A aplicação deverá exibir uma tela para o Doador onde ele poderá alterar, editar , excluir e adicionar livro. |ALTA|
 
 
 
