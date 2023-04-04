@@ -10,11 +10,11 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 *Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-connectbook/tree/main/docs
 
-*Projeto de Interface e Wireframes | MarvelApp | Marvel APP - ZCaixa Mobile
+*Projeto de Interface e Wireframes | Figma | *colocar link*
 
-*Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/123
+*Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/307/views/1?layout=board
 
-*Gerenciamento do Projeto | Sprints / Diagrama de Gantt | À definir
+*Gerenciamento do Projeto | Scrum | Divisão de Sprints e uso do Kanban 
 
 ## Gestão de Código Fonte  
 
@@ -66,7 +66,6 @@ Os membros do grupo se dividiram entre as tarefas a serem realizadas, porém, to
 ### Processo
 
 Ao realizar reuniões para continuidade do projeto, são definidos as listas de tarefas onde todos os membros da equipe participam, iniciando com o card "Backlog", onde estão elencadas as atividades identificadas no percurso do projeto. O card "To Do", representa as listas de atividas que deveram ser executadas. Ao inicar uma tarefa as atividades definidas e iniciadas devem serem realocadas no card "In Progress", após sua execução, é movida para a lista o designado pelo card "Done", devendo o mesmo ser atualizado.
- 
 
 
 ### Ferramentas
@@ -75,14 +74,12 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código (Visual Studio Code)
 - Ferramentas de comunicação: Whatsapp, Discord, Teams.
-- Ferramentas de desenho de tela (_wireframing_): Whimsical, MarvelApp e Heflo
-- Ferramentas para diagramas (conceitual e lógico): Diagrams.net, Astah, Lucid Charts, BRMW
+- Ferramentas de desenho de tela (_wireframing_): Figma
+- Ferramentas para diagramas (conceitual e lógico): Lucidchart
 - Banco de dados relacional, utilizando o SQL Server como o SGBD ( Sistema de Gerenciamento de Banco de Dados). O banco está hospedado dentro da Azure, a plataforma nuvem da Microsoft.
-- O frameworks escolhido para o front-end, foi o reactnative framework.
 
 O editor de código foi escolhido pelo grupo pois é o mais prático e acessível para os integrantes, além de facilitar a alternação de quem está editando o código e salvando diretamente no reposítorio através do GitHub Desktop. Tem um bom dicionário de erros no código e permite acompanhar alterações em tempo real através do navegador.
 
 -* O editor de código foi escolhido porque ele possui uma integração com osistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 
