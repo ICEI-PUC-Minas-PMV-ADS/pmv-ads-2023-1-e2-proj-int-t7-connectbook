@@ -8,24 +8,67 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
 
 Por exemplo:
  
-| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
+| **Caso de Teste** 	| **CT-01 – Visualizar tela de login** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| CT-02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|	Requisito Associado 	| RF-01 – A Aplicação deverá apresentar uma tela onde o usuário poderá fazer login com “Email” e “Senha” e escolher qual tipo de usuário.|
+| Objetivo do Teste 	| Verificar se a aplicação web exibe todos os elementos requisitados. |
+| Passos 	| -                     -                 -     | 
+|    1   	|    Acessar o Navegador                        |
+|    2    |    Informar o endereço da aplicação web       |
+|    3    |    Visualizar a página principal              |
+|    4    |    Selecionar a opção de "LOGIN"              |
+|    5    |    Visualizar a tela de login                 |
+|Critério de Êxito | - Deve ser exibido uma tela de login para a entrada de usuários. |
 
+<br>*
+
+| Caso de Teste 	| CT-02 – Visualizar página de Cadastro	|
+|Requisito Associado | RF-02- Na tela de login deverá apresentar a opção de cadastrar usuário e levar a página de cadastro.  |
+| Objetivo do Teste 	| Verificar se a aplicação web exibe uma página com campos de preenchimento para o usuário cadastrar os dados. |
+| Passos 	| -                     -                 -     | 
+|    1   	|    Acessar o Navegador                        |
+|    2    |    Informar o endereço da aplicação web       |
+|    3    |    Visualizar a página principal              |
+|    4    |    Selecionar a opção de "LOGIN"              |
+|    5    |    Visualizar a tela de login                 |
+|    5    |    Selecionar “Cadastre-se”                   |
+|    5    |    Visualizar a página de cadastro            |
+|    5    |    Informar os dados de cadastro              |
+|    5    |    Selecionar opção “Cadastrar”               |
+|Critério de Êxito | - Deve ser exibido após o cadastro a tela de acesso dependendo do tipo de usuário. |
+
+<br>*
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+ | **Caso de Teste** 	| **CT-03 – Visualizar página de Livros** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-03- A aplicação deverá apresentar uma tela onde o Recebedor poderá visualizar livros disponíveis.|
+| Objetivo do Teste 	| Verificar se a aplicação web exibe uma página com os livros disponíveis. |
+| Passos 	| -                     -                 -     | 
+|    1   	|    Acessar o Navegador                        |
+|    2    |    Informar o endereço da aplicação web       |
+|    3    |    Visualizar a página principal              |
+|    4    |    Selecionar a opção de "LOGIN"              |
+|    5    |    Visualizar a tela de login                 |
+|    6    |    Realizar o login como Recebedor            |
+|    7    |    Visualizar a página de livros              |
+|Critério de Êxito | - Deve ser exibido após o login, uma página especifica dos livros cadastrados. |
+
+<br>*
+
+| **Caso de Teste** 	| **CT-04– Visualizar página de Adicionar Livro** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-06- A aplicação deverá exibir uma tela para o Doador onde ele poderá alterar, editar, excluir e adicionar livro.|
+| Objetivo do Teste 	| Verificar se a aplicação web exibe uma página com a opção de adicionar livro. |
+| Passos 	| -                     -                 -     | 
+|    1   	|    Acessar o Navegador                        |
+|    2    |    Informar o endereço da aplicação web       |
+|    3    |    Visualizar a página principal              |
+|    4    |    Selecionar a opção de "DOE AGORA"          |
+|    5    |    Realizar login                             |
+|    6    |    Visualizar a página de adicionar livro     |
+|    7    |    Selecionar a opção “Adicionar”             |
+|    8    |    Informar os dados do livro                 |
+|    9    |    Selecionar a opção “Adicionar”             |
+
+|Critério de Êxito | - Deve ser exibido o livro adicionado na lista de livros. |
+
