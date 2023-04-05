@@ -22,7 +22,7 @@ Casos de testes:
 
 | Caso de Teste 	| CT-02 – Visualizar página de Cadastro	|
 |:---:	|:---:	|
-|Requisito Associado | RF-02- Na tela de login deverá apresentar a opção de cadastrar usuário e levar a página de cadastro.  |
+|Requisito Associado | RF-02- Na tela de login deverá apresentar a opção de cadastrar usuário e levar a página de cadastro.                                     |
 | Objetivo do Teste 	| Verificar se a aplicação web exibe uma página com campos de preenchimento para o usuário cadastrar os dados. |
 | Passos 	| -                     -                 -     | 
 |    1   	|    Acessar o Navegador                        |
@@ -40,7 +40,7 @@ Casos de testes:
  
  | **Caso de Teste** 	| **CT-03 – Visualizar página de Livros** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-03- A aplicação deverá apresentar uma tela onde o Recebedor poderá visualizar livros disponíveis.|
+|	Requisito Associado 	| RF-03- A aplicação deverá apresentar uma tela onde o Recebedor poderá visualizar livros disponíveis.                                    |
 | Objetivo do Teste 	| Verificar se a aplicação web exibe uma página com os livros disponíveis. |
 | Passos 	| -                     -                 -     | 
 |    1   	|    Acessar o Navegador                        |
@@ -56,7 +56,7 @@ Casos de testes:
 
 | **Caso de Teste** 	| **CT-04– Visualizar página de Adicionar Livro** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-06- A aplicação deverá exibir uma tela para o Doador onde ele poderá alterar, editar, excluir e adicionar livro.|
+|	Requisito Associado 	| RF-06- A aplicação deverá exibir uma tela para o Doador onde ele poderá alterar, editar, excluir e adicionar livro.                     |
 | Objetivo do Teste 	| Verificar se a aplicação web exibe uma página com a opção de adicionar livro. |
 | Passos 	| -                     -                 -     | 
 |    1   	|    Acessar o Navegador                        |
