@@ -4,7 +4,6 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-![image](https://user-images.githubusercontent.com/113475662/230223549-f0ef7db3-4421-4f02-9548-b075978b5339.png)
 ![image](https://user-images.githubusercontent.com/113475662/230223606-cd6cdca7-95a5-488f-897a-ee3b39209480.png)
 ![image](https://user-images.githubusercontent.com/113475662/230223694-05c9953e-0416-4e31-ba1c-4081c3591ab4.png)
 ![image](https://user-images.githubusercontent.com/113475662/230224121-c8c1757b-da5c-4821-b07c-a1fec7e37231.png)
