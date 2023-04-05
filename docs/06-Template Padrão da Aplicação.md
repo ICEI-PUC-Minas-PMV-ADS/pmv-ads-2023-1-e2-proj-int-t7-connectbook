@@ -6,7 +6,6 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 ![image](https://user-images.githubusercontent.com/113475662/230223549-f0ef7db3-4421-4f02-9548-b075978b5339.png)
 ![image](https://user-images.githubusercontent.com/113475662/230223606-cd6cdca7-95a5-488f-897a-ee3b39209480.png)
-![image](https://user-images.githubusercontent.com/113475662/230223654-f59931e5-1c97-4802-a706-9769dbac7176.png)
 ![image](https://user-images.githubusercontent.com/113475662/230223694-05c9953e-0416-4e31-ba1c-4081c3591ab4.png)
 ![image](https://user-images.githubusercontent.com/113475662/230224121-c8c1757b-da5c-4821-b07c-a1fec7e37231.png)
 ![image](https://user-images.githubusercontent.com/113475662/230224158-df853a9e-61a0-4a00-81e1-6cbc570b7eb6.png)
