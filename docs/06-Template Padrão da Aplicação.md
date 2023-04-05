@@ -4,6 +4,8 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+https://www.figma.com/file/vtYq6cfYc0ZwoXosPIVAW5/ConnectBook?t=46HNUhzttBsUhBgm-1
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
