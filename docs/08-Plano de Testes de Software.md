@@ -23,6 +23,7 @@ Por exemplo:
 <br>*
 
 | Caso de Teste 	| CT-02 – Visualizar página de Cadastro	|
+|:---:	|:---:	|
 |Requisito Associado | RF-02- Na tela de login deverá apresentar a opção de cadastrar usuário e levar a página de cadastro.  |
 | Objetivo do Teste 	| Verificar se a aplicação web exibe uma página com campos de preenchimento para o usuário cadastrar os dados. |
 | Passos 	| -                     -                 -     | 
