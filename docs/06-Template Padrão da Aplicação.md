@@ -4,7 +4,17 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-![ConnectBook](https://user-images.githubusercontent.com/113475662/230223325-12d08894-963f-43c0-bcbd-5d93f61eee65.png)
+![image](https://user-images.githubusercontent.com/113475662/230223549-f0ef7db3-4421-4f02-9548-b075978b5339.png)
+![image](https://user-images.githubusercontent.com/113475662/230223606-cd6cdca7-95a5-488f-897a-ee3b39209480.png)
+![image](https://user-images.githubusercontent.com/113475662/230223654-f59931e5-1c97-4802-a706-9769dbac7176.png)
+![image](https://user-images.githubusercontent.com/113475662/230223694-05c9953e-0416-4e31-ba1c-4081c3591ab4.png)
+![image](https://user-images.githubusercontent.com/113475662/230224121-c8c1757b-da5c-4821-b07c-a1fec7e37231.png)
+![image](https://user-images.githubusercontent.com/113475662/230224158-df853a9e-61a0-4a00-81e1-6cbc570b7eb6.png)
+![image](https://user-images.githubusercontent.com/113475662/230224200-8e0e6c33-a4ed-4f6e-b7fc-d18f5eb93205.png)
+![image](https://user-images.githubusercontent.com/113475662/230224231-b2de4109-8912-4d87-b245-648da05fd22b.png)
+![image](https://user-images.githubusercontent.com/113475662/230224260-ed95bc4c-b282-4789-be5d-1c0dde613d7b.png)
+![image](https://user-images.githubusercontent.com/113475662/230224304-e7b26eff-771b-4350-a632-6f17d4caf292.png)
+![image](https://user-images.githubusercontent.com/113475662/230224333-6fac67c7-a1e5-48f1-9722-720743bd6cc1.png)
 
 
 > **Links Úteis**:
