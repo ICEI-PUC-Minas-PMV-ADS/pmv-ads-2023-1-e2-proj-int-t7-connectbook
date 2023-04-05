@@ -70,10 +70,9 @@ Por exemplo:
 |    7    |    Selecionar a opção “Adicionar”             |
 |    8    |    Informar os dados do livro                 |
 |    9    |    Selecionar a opção “Adicionar”             |
-
 |Critério de Êxito | - Deve ser exibido o livro adicionado na lista de livros. |
 
-<br>*
+
 
 
 
