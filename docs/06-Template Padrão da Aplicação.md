@@ -4,7 +4,8 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-https://www.figma.com/file/vtYq6cfYc0ZwoXosPIVAW5/ConnectBook?t=46HNUhzttBsUhBgm-1
+![ConnectBook](https://user-images.githubusercontent.com/113475662/230223325-12d08894-963f-43c0-bcbd-5d93f61eee65.png)
+
 
 > **Links Úteis**:
 >
