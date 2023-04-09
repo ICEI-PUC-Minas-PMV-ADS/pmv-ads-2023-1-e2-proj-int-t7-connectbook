@@ -30,6 +30,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 ## Modelo ER (Projeto Conceitual)
 
 
+![Diagrama conceitual](https://user-images.githubusercontent.com/44789183/230795967-5b42e236-6948-404d-bcc4-d93245391b0d.jpeg)
 
 
 ## Projeto da Base de Dados
