@@ -9,11 +9,12 @@ Para cada voluntário do teste, é fundamental coletar e apresentar todos os dad
 As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 # # Teste 1 - Usabilidade da Página Inicial
 ||||||
-|--|--|--|--|--|
+|--|--|--|--|
 |**Usabilidade da Página Inicial**|A aplicação foi responsiva?|O tempo de resposta da aplicação foi satisfatório?|As informações foram claras?|
-|Simule clicar nos botões de Login, cadastro para acessar area tela de login e cadastro|||||
-|Simule clicar no botão de cadastrar livro, no qual, deverá ser possível inserir o cadastro dos livros que o doador deseja colocar para doação|||||
-|Simule clicar nos conteúdos com fotos de tipos de livros cadastrados para selecionar o livro que o receptor/adquirente pretende obter |||||
+|Simule clicar nos botões de Login, cadastro para acessar area tela de login e cadastro||||
+|Simule clicar no botão de cadastrar livro, no qual, deverá ser possível inserir o cadastro dos livros que o doador deseja colocar a disposição para doação||||
+|Simule clicar nos conteúdos com fotos de tipos de livros cadastrados para selecionar o livro que o receptor/adquirente pretende obter ||||
+
 
 > **Links Úteis**:
 > - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
