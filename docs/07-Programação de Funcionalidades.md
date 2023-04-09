@@ -11,6 +11,16 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
 |RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
 
+
+|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|----|
+|RF-001|  A aplicação deve permitir, criar, excluir, editar e gerenciar os livros para doação  | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
+|RF-002| A aplicação deve permitir o usuário se cadastrar e escolher em qual tipo de usuário se enquadra. Doador ou receptor  | relatorio.shtml |
+|RF-003|  A aplicação deve conter login com email e senha  |
+|RF-004|  A aplicação deve permitir a busca por livros de interesse do receptor  |
+|RF-005|  A aplicação deve permitir o registro de interesse a determinado livro por parte do receptor  |
+|RF-006|  A aplicação deverá fornecer uma forma de comunicação entre usuário doador e usuário receptor, ainda que por meio do uso de aplicações terceiras  |
+
 # Instruções de acesso
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
