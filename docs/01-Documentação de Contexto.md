@@ -4,27 +4,21 @@ O ConnectBook é um projeto de inovador que visa incentivar a doação de livros
 
 Segundo dados da pesquisa Retratos da Leitura no Brasil entre os anos de 2015 e 2019 o Brasil perdeu cerca de 4.6 milhões de leitores, alguns motivos podem ser apontados como fatores capazes de justificar essa queda dentre eles, a dificuldade no acesso. A perda do hábito de leitura ao longo dos anos pode ser um problema considerável no que diz respeito ao desenvolvimento intelectual e cultural da população, especialmente as mais carentes. A ausência de uma prática literária estruturada pode ser observada em diversos aspectos da sociedade brasileira, afetando diretamente a qualidade do ensino e a capacidade de pensamento e análise crítica.
 
-Por outro lado, o projeto também leva em consideração a grande quantidade de livros que são abandonados e que poderiam ser bem aproveitados por outras pessoas. O ConnectBook, portanto, tem como objetivo conectar aqueles que têm mais livros com aqueles que têm menos, democratizando o acesso à boa literatura e estimulando o hábito de leitura.
-
-Dessa forma, o projeto contribui para a promoção da circulação de livros, incentivando a cultura do compartilhamento e doação, além de proporcionar a oportunidade de acesso à boa literatura para pessoas que, de outra forma, não teriam essa possibilidade. É uma iniciativa importante para o desenvolvimento social e cultural do país, que pode ajudar a construir uma sociedade mais igualitária e consciente.
+Dessa forma, o projeto tenta contribuir para a promoção da circulação de livros, incentivando a cultura do compartilhamento e doação, além de proporcionar a oportunidade de acesso à literatura para diferentes pessoas de diferentes contextos sociais. Acredita-se que tal iniciativa pode ser um importante meio para o desenvolvimento social e cultural do país, que pode ajudar a construir uma sociedade mais igualitária e consciente.
 
 ## Problema
 
-O projeto ConnectBook surge diante de problemas recorrentes no cenário brasileiro, sobretudo relacionados ao acesso à literatura. Uma das principais questões é a dificuldade de acesso a livros por uma parcela da população, especialmente os mais pobres e com poucas condições financeiras, que muitas vezes não dispõem de recursos para adquirir obras literárias. A construção de um acesso facilitado a obras literárias pode ser considerado um dos fatores determinantes para criação de um hábito de leitura na população e segundo a pesquisa Retratos da Literatura no Brasil o principal meio de acesso a literatura gratuita no país são as bibliotecas escolares, porém tal espaço só se faz presente em apenas 36% das instituições de ensino e se tratando de escolas públicas este número cai para 31%, tornando-se um desafio ainda maior para a população de baixa renda.
+O projeto ConnectBook surge diante de problemas recorrentes no cenário brasileiro, sobretudo relacionados ao acesso à literatura. Uma das principais questões é a dificuldade de acesso a livros por uma parcela considerável da população. A construção de um acesso facilitado a obras literárias pode ser considerado um dos fatores determinantes para criação de um hábito de leitura na população e segundo a pesquisa Retratos da Literatura no Brasil o principal meio de acesso a literatura gratuita no país são as bibliotecas escolares, porém tal espaço só se faz presente em apenas 36% das instituições de ensino e se tratando de escolas públicas este número cai para 31%, tornando-se um desafio ainda maior para a população de baixa renda.
 
-Por outro lado, há pessoas que, por motivos diversos, precisam se desfazer de seus livros usados e muitas vezes em bom estado. No entanto, a doação desses livros nem sempre é uma tarefa fácil, pois falta uma plataforma ou um sistema que facilite a conexão entre doadores e receptores.
-
-Nesse sentido, o ConnectBook surge como uma solução para conectar pessoas que têm mais livros com aquelas que têm menos. O projeto tem como objetivo democratizar o acesso à boa literatura, promovendo a circulação de livros e incentivando a cultura da doação e do compartilhamento.
-
-Além disso, a plataforma oferece uma solução tecnológica que facilita a doação de livros de forma ágil e segura. Os doadores podem cadastrar seus livros na plataforma e os receptores podem buscar livros de acordo com seu interesse e localização.
+Por outro lado segundo dados da pesquisa PNAD Contínua realizada pelo IBGE, cerca de 90% dos lares Brasileiros tem acesso à internet e destes 90%, 99,5% utilizam dos aparelhos celulares para navegar na internet. O ConnectBook, portanto, tem como objetivo, por meio da tecnologia, conectar doadores e recebedores, na tentativa de democratizar o acesso à literatura e estimular o hábito da leitura através do incentivo à cultura da doação e do  compartilhamento.
 
 ## Objetivos
 
-Atuar na democratização da boa literatura; promover o acesso à cultura e a educação por meio de doações de livros para as pessoas que não disponham de biblioteca ou cujo acesso seja precário, fazendo a ligação entre doador e receptor. 
+Atuar na democratização da boa literatura; promover o acesso à cultura e a educação por meio de doações de livros para as pessoas que não disponham de bibliotecas ou cujo acesso seja precário, fazendo a ligação entre doador e receptor. 
 
 Como objetivos específicos, podemos ressaltar:
 
-Construir um software intuitivo e universal, proporcionando uma boa experiência de usuário; permitir o cadastro de livros; estabelecer conexão entre doador e receptor por meio de formulários.
+Construir um software intuitivo e universal, proporcionando uma boa experiência de usuário; permitir o cadastro de livros; estabelecer conexão entre doador e receptor.
 
 ## Justificativa
 
@@ -47,4 +41,12 @@ Nesta proposta, o usuário terá um sistema com acesso via Web e mobile, onde te
 
 ## Público-Alvo
 
-O ConnectBook não é restrito, sendo uma aplicação disponível para todos. Contudo, sua idealização foi feita visando atender àqueles que não possuem acesso à boa literatura, sobretudo por razões financeiras, bem como àqueles que desejam se desfazer de seus livros, sejam eles novos ou usados, mas de forma eficiente e, simultaneamente, ajudando o próximo.
+De acordo com os dados apresentados, o público-alvo do projeto ConnectBook são as pessoas que não têm acesso fácil à leitura e à cultura devido à sua situação socioeconômica. Esse público inclui, mas não se limita a:
+
+- Estudantes de escolas públicas que não têm acesso a bibliotecas escolares e, portanto, têm dificuldade em encontrar livros para leitura;
+- Famílias de baixa renda que não têm recursos financeiros para comprar livros ou ir a bibliotecas privadas;
+- Pessoas que vivem em áreas remotas ou isoladas, onde a disponibilidade de livros é limitada;
+- Jovens adultos em início de carreira que desejam desenvolver suas habilidades de leitura e escrita, mas não têm acesso a recursos educacionais;
+- Doadores de livros que desejam contribuir para a causa e conectar-se com outros leitores ávidos.
+
+O público-alvo também inclui pessoas que têm acesso à internet e usam smartphones para navegar na web. Isso porque o ConnectBook é uma plataforma digital que conecta doadores e receptores de livros. Portanto, a iniciativa é destinada a pessoas que possuem habilidades básicas em tecnologia e têm acesso à internet, possuindo interesse na democratização e compartilhamento de conhecimento através da doação livros.
