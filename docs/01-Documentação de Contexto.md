@@ -1,6 +1,6 @@
 # Introdução
 
-O ConnectBook é um projeto de inovador que visa incentivar a doação de livros e facilitar o acesso a literatura para aqueles que não têm acesso à uma gama de livros diferente do contexto social em que estão inseridos. A ideia por trás do projeto surgiu da observação de alguns fatores e problemas que afetam a sociedade brasileira atual.
+O ConnectBook é um projeto de inovador que visa incentivar a doação de livros e facilitar o acesso a literatura para aqueles que não têm acesso à uma gama de livros diferente do contexto social em que estão inseridos. A ideia por trás do projeto surgiu do levantamento de alguns fatores e problemas que afetam a sociedade brasileira atual.
 
 Segundo dados da pesquisa Retratos da Leitura no Brasil entre os anos de 2015 e 2019 o Brasil perdeu cerca de 4.6 milhões de leitores, alguns motivos podem ser apontados como fatores capazes de justificar essa queda dentre eles, a dificuldade no acesso. A perda do hábito de leitura ao longo dos anos pode ser um problema considerável no que diz respeito ao desenvolvimento intelectual e cultural da população, especialmente as mais carentes. A ausência de uma prática literária estruturada pode ser observada em diversos aspectos da sociedade brasileira, afetando diretamente a qualidade do ensino e a capacidade de pensamento e análise crítica.
 
@@ -10,7 +10,7 @@ Dessa forma, o projeto contribui para a promoção da circulação de livros, in
 
 ## Problema
 
-O projeto ConnectBook surge diante de problemas recorrentes no cenário brasileiro, sobretudo relacionados ao acesso à literatura. Uma das principais questões é a dificuldade de acesso a livros por uma parcela da população, especialmente os mais pobres e com poucas condições financeiras, que muitas vezes não dispõem de recursos para adquirir obras literárias. Essa situação se agrava pelo fato de que, sem acesso aos livros, o número de leitores no país diminui cada vez mais.
+O projeto ConnectBook surge diante de problemas recorrentes no cenário brasileiro, sobretudo relacionados ao acesso à literatura. Uma das principais questões é a dificuldade de acesso a livros por uma parcela da população, especialmente os mais pobres e com poucas condições financeiras, que muitas vezes não dispõem de recursos para adquirir obras literárias. A construção de um acesso facilitado a obras literárias pode ser considerado um dos fatores determinantes para criação de um hábito de leitura na população e segundo a pesquisa Retratos da Literatura no Brasil o principal meio de acesso a literatura gratuita no país são as bibliotecas escolares, porém tal espaço só se faz presente em apenas 36% das instituições de ensino e se tratando de escolas públicas este número cai para 31%, tornando-se um desafio ainda maior para a população de baixa renda.
 
 Por outro lado, há pessoas que, por motivos diversos, precisam se desfazer de seus livros usados e muitas vezes em bom estado. No entanto, a doação desses livros nem sempre é uma tarefa fácil, pois falta uma plataforma ou um sistema que facilite a conexão entre doadores e receptores.
 
