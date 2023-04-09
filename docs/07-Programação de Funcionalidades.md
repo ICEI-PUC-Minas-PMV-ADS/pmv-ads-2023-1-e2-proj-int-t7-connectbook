@@ -4,16 +4,8 @@
 
 Implementação do sistema descrita por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos com os artefatos criados (código fonte), deverão apresentadas as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
-Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos desenvolvidos.
-
-|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
-
-
-|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
-|------|-----------------------------------------|----|
+|ID    | Descrição do Requisito                  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|------------------------|-|
 |RF-001|  A aplicação deve permitir, criar, excluir, editar e gerenciar os livros para doação  | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
 |RF-002| A aplicação deve permitir o usuário se cadastrar e escolher em qual tipo de usuário se enquadra. Doador ou receptor  | relatorio.shtml |
 |RF-003|  A aplicação deve conter login com email e senha  |
