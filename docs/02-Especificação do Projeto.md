@@ -69,6 +69,6 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 A seguir, o diagrama de casos de uso contendo de forma gráfica a ligação entre os requisitos funcionais descritos no projeto e seus respectivos atores.
 
-![Diagrama de caso de uso](https://user-images.githubusercontent.com/44789183/226129811-83688997-a48d-42d4-b176-838d35282087.jpeg)
+![Diagrama de caso de uso(1)](https://user-images.githubusercontent.com/44789183/230789087-505877f2-47d9-465a-ac1e-da8d44e0cf23.jpeg)
 
 
