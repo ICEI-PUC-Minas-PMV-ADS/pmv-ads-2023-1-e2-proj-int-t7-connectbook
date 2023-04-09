@@ -33,12 +33,12 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID      | Descrição do Requisito  | Prioridade|
 |--------|-------------------------|-----------|
-|RF01   | A aplicação deverá apresentar uma tela onde o usuário poderá fazer login com "Email" e "Senha" e escolher em qual tipo de usúario se enquadra. |ALTA| 
-|RF02   | Na tela de login deverá apresentar a opção de cadastrar usuário e levar a página de cadastro. |ALTA|
-|RF03   | A aplicação deverá apresentar uma tela onde o Recebedor poderá visualizar livros disponíveis. |ALTA|
-|RF04   | A aplicação deverá apresentar uma tela onde o Recebedor poderá selecionar livro do seu interesse. |ALTA|
-|RF05   | O sistema deve permitir ao usuário do tipo Recebedor pesquisar por livros. |ALTA|
-|RF06   | A aplicação deverá exibir uma tela para o Doador onde ele poderá alterar, editar , excluir e adicionar livro. |ALTA|
+|RF01   | A aplicação deve permitir, criar, excluir, editar e gerenciar os livros para doação |ALTA|
+|RF02   | A aplicação deve permitir o usuário se cadastrar e escolher em qual tipo de usuário se enquadra. Doador ou receptor |ALTA|
+|RF03   | A aplicação deve conter login com email e senha |ALTA|
+|RF04   | A aplicação deve permitir a busca por livros de interesse do receptor |ALTA|
+|RF05   | A aplicação deve permitir o registro de interesse a determinado livro por parte do receptor |ALTA|
+|RF06   | A aplicação deverá fornecer uma forma de comunicação entre usuário doador e usuário receptor, ainda que por meio do uso de aplicações terceiras. |ALTA|
 
 
 
@@ -50,9 +50,10 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF01| O sistema deve ser responsivo para que possa ser executado em um dispositivos móvel | MÉDIA | 
 |RNF02| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF03| Necessário conexão com a internet para poder usufruir do sistema.| MÉDIA | 
-|RNF04| O sistema deve comunicar ao usuário do tipo Doador que um de seus livros para doação foi solicitado iniciando o processo de doação entre Recebedor/Doador via comunicação utilizando de plataformas de email |ALTA|
+|RNF04| O sistema deve comunicar ao usuário do tipo Doador que um de seus livros para doação foi solicitado iniciando o processo de doação entre Recebedor/Doador via comunicação utilizando plataformas de email ou demais serviços de mensageria  |ALTA|
 |RNF05| A aplicação web deverá ter disponibilidade em todos os horários. |MÉDIA|
 |RNF06| Os dados inseridos pelos usuários na tela de login serão cadastrados no banco de dados.|ALTA|
+|RNF07| A aplicação deve ser de fácil usabilidade e apresentar telas bem elaboradas e de fácil utilização |ALTA|
 
 ## Restrições
 
