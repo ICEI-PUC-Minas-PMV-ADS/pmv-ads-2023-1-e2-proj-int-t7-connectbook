@@ -6,12 +6,12 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 
 |ID      | Descrição do Requisito | Artefato(s) produzido(s) |
 | ------ | ---------------------- | ------------------------ | 
-| RF-001 |  A aplicação deve permitir, criar, excluir, editar e gerenciar os livros para doação  | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-| RF-002 | A aplicação deve permitir o usuário se cadastrar e escolher em qual tipo de usuário se enquadra. Doador ou receptor  | relatorio.shtml |
-| RF-003 |  A aplicação deve conter login com email e senha  |
-| RF-004 |  A aplicação deve permitir a busca por livros de interesse do receptor  |
-| RF-005 |  A aplicação deve permitir o registro de interesse a determinado livro por parte do receptor  |
-| RF-006 |  A aplicação deverá fornecer uma forma de comunicação entre usuário doador e usuário receptor, ainda que por meio do uso de aplicações terceiras  |
+| RF-01 |  A aplicação deve permitir, criar, excluir, editar e gerenciar os livros para doação  | homepage.html / style.css / controllertarefas.cs |  
+| RF-02 | A aplicação deve permitir o usuário se cadastrar e escolher em qual tipo de usuário se enquadra. Doador ou receptor  | relatorio.shtml |
+| RF-03 |  A aplicação deve conter login com email e senha  |
+| RF-04 |  A aplicação deve permitir a busca por livros de interesse do receptor  |
+| RF-05 |  A aplicação deve permitir o registro de interesse a determinado livro por parte do receptor  |
+| RF-06 |  A aplicação deverá fornecer uma forma de comunicação entre usuário doador e usuário receptor, ainda que por meio do uso de aplicações terceiras  |
 
 # Instruções de acesso
 
