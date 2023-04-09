@@ -10,7 +10,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 *Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-connectbook/tree/main/docs
 
-*Projeto de Interface e Wireframes | Figma | *colocar link*
+*Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/vtYq6cfYc0ZwoXosPIVAW5/ConnectBook?t=46HNUhzttBsUhBgm-1
 
 *Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/307/views/1?layout=board
 
@@ -29,8 +29,6 @@ foi utilizado para hospedagem do repositório.
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
@@ -43,8 +41,7 @@ etiquetas:
 - `diagram`: um diagrama precisa ser criado
 - `wireframe`: uma tela precisa ser criada
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
+Todo o gerenciamento de issues e etiquetas é feita através do Kanban disponibilizado pela ferramenta Github Projects. 
 
 ## Gerenciamento de Projeto
 
@@ -52,7 +49,7 @@ Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  e
 
 ● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
 
-● To Do:  Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos trabalhando.
+● To Do:  Esta  lista  representa  o  Sprint  Backlog. Contém as tarefas já convertidas em issues, discutidas e prontas para serem realizadas.
 
 ● In Progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
 
@@ -60,12 +57,11 @@ Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  e
 
 ### Divisão de Papéis
 
-Os membros do grupo se dividiram entre as tarefas a serem realizadas, porém, todos exerceram o mesmo papel. 
-
+Os membros do grupo dividem-se entre as tarefas levando em conta as definições realizadas durante as reuniões semanais para realização e revisão do andamento do projeto.
 
 ### Processo
 
-Ao realizar reuniões para continuidade do projeto, são definidos as listas de tarefas onde todos os membros da equipe participam, iniciando com o card "Backlog", onde estão elencadas as atividades identificadas no percurso do projeto. O card "To Do", representa as listas de atividas que deveram ser executadas. Ao inicar uma tarefa as atividades definidas e iniciadas devem serem realocadas no card "In Progress", após sua execução, é movida para a lista o designado pelo card "Done", devendo o mesmo ser atualizado.
+Ao realizar reuniões para continuidade do projeto, são definidos as listas de tarefas onde todos os membros da equipe participam, iniciando com o card "Backlog", onde estão elencadas as atividades identificadas no percurso do projeto. O card "To Do", representa as listas de atividades que deverão ser executadas. Ao inicar uma tarefa as atividades definidas e iniciadas devem ser realocadas no card "In Progress", após sua execução, são movidas para a lista "Done" onde encontram-se concluídas.
 
 
 ### Ferramentas
@@ -76,10 +72,15 @@ As ferramentas empregadas no projeto são:
 - Ferramentas de comunicação: Whatsapp, Discord, Teams.
 - Ferramentas de desenho de tela (_wireframing_): Figma
 - Ferramentas para diagramas (conceitual e lógico): Lucidchart
-- Banco de dados relacional, utilizando o SQL Server como o SGBD ( Sistema de Gerenciamento de Banco de Dados). O banco está hospedado dentro da Azure, a plataforma nuvem da Microsoft.
+- Banco de dados relacional escolhido foi o PostgreSQL 
 
-O editor de código foi escolhido pelo grupo pois é o mais prático e acessível para os integrantes, além de facilitar a alternação de quem está editando o código e salvando diretamente no reposítorio através do GitHub Desktop. Tem um bom dicionário de erros no código e permite acompanhar alterações em tempo real através do navegador.
+O editor de código VSCode foi escolhido pelo grupo por ser uma das ferramentas de edição mais utilizadas atualmente no mercado de tecnologia, além de contar com uma extensa comunidade que auxilia com eventuais dúvidas e problemas. Conta com inúmeras extensões que podem ser instaladas e tem um bom dicionário de erros no código.
 
--* O editor de código foi escolhido porque ele possui uma integração com osistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+Levando em conta facilidade de acesso e disponibilidade, as ferramentas de comunicação escolhidas foram Whatsapp, Discord e Teams por unirem praticidade, formalidade e recursos facilitadores ao processo de desenvolvimento.
 
+A ferramenta utilizada para o desenho das telas do sistema foi o Figma por ser uma das melhores plataformas gratuitas atualmente nesse ramo e por contar com extensa comunidade e material de apoio.
+
+Como ferramenta para diagramação foi escolhido o Lucidchart pela robustez e capacidade de compartilhemnto, exportação e salvamento automático de arquivos na nuvem.
+
+O banco relacional escolhido foi o PostgreSQL por ser uma ferramenta de código aberto, fácil uso e gerenciamento, e que permite a escalabilidade da aplicação.
 
