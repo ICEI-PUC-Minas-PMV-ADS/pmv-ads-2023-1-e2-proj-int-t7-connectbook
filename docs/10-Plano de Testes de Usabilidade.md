@@ -56,8 +56,10 @@ Os testes de usabilidades serão executados remotamente e os relatórios serão 
 # Teste 3 - Busca pelo livro desejado pelo receptor/adquirente e sua reserva com o doador
 ||||||
 |--|--|--|--|--|
-|Busca pelo livro desejado pelo receptor/adquirente e sua reserva com o doador|A aplicação foi responsiva?|O tempo de resposta da aplicação foi satisfatório?|As informações foram claras?|
-|O usuário receptor/adquirente deverá realizar pesquisa para encontrar o livro desejado. Posteriormente deverá fazer contato com o doador através do e-mail fornecido pelo mesmo na plataforma.
+|**Busca pelo livro desejado pelo receptor/adquirente e sua reserva com o doador**|A aplicação foi responsiva?|O tempo de resposta da aplicação foi satisfatório?|As informações foram claras?|
+|O usuário receptor/adquirente deverá realizar pesquisa para encontrar o livro desejado.|||||
+|O usuário deverá fazer contato com o doador através do e-mail fornecido pelo mesmo na plataforma.|||||
+
 
 # Questionário de avaliação de usabilidade da aplicação
 |||||
