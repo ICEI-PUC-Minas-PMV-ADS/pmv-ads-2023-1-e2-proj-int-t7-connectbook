@@ -57,6 +57,7 @@ Os testes de usabilidades serão executados remotamente e os relatórios serão 
 ||||||
 |--|--|--|--|--|
 |Busca pelo livro desejado pelo receptor/adquirente e sua reserva com o doador|A aplicação foi responsiva?|O tempo de resposta da aplicação foi satisfatório?|As informações foram claras?|
+|O usuário receptor/adquirente deverá realizar pesquisa para encontrar o livro desejado. Posteriormente deverá fazer contato com o doador através do e-mail fornecido pelo mesmo na plataforma.
 
 # Questionário de avaliação de usabilidade da aplicação
 |||||
