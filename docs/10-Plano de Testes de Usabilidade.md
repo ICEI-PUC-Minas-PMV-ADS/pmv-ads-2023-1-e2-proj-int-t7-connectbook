@@ -61,7 +61,7 @@ Os testes de usabilidades serão executados remotamente e os relatórios serão 
 # Questionário de avaliação de usabilidade da aplicação
 |||||
 |--|--|--|--|
-||Em algum momento, houve frustração durante a realização desta tarefa?| Houve alguma dificuldade para a realização desta tarefa?|Qual foi a satisfação da realização desta tarefa? ( De 0 a 10, com 0 para nenhuma satisfação e 10 para muita satisfação )|
+||Em algum momento, houve frustração durante a realização desta tarefa?| Houve alguma dificuldade para a realização desta tarefa?|Qual foi o nível de satisfação da realização desta tarefa? ( De 0 a 10, com 0 para nenhuma satisfação e 10 para muita satisfação )|
 |**Teste 1 - Usabilidade da Página Inicial**||||
 |**Teste 2 - Cadastro e Login**||||
 |**Teste 3 - Busca pelo livro desejado pelo receptor/adquirente e sua reserva com o doador**||||
