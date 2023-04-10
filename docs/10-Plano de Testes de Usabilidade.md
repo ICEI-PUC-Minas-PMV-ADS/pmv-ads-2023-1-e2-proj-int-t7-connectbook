@@ -53,3 +53,9 @@ Os testes de usabilidades serão executados remotamente e os relatórios serão 
 |O usuário que realizou devidamente seu cadastro deverá simular o seu login, devendo inserir seu e-mail e sua senha cadastrada, nas abas designadas "e-mail" e "senha"|||||
 |O usuário deverá realizar a simulação de um novo cadastro preenchendo as informações requeridas.|||||
 
+# Teste 3 - Busca pelo livro desejado pelo receptor/adquirente e sua reserva com o doador
+||||||
+|--|--|--|--|--|
+|Busca pelo livro desejado pelo receptor/adquirente e sua reserva com o doador|A aplicação foi responsiva?|O tempo de resposta da aplicação foi satisfatório?|As informações foram claras?|
+|
+
