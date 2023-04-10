@@ -15,4 +15,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Test
 |Simule clicar no botão de cadastrar livro, no qual, deverá ser possível inserir o cadastro dos livros que o doador deseja colocar a disposição para doação||||
 |Simule clicar nos conteúdos com fotos de tipos de livros cadastrados para selecionar o livro que o receptor/adquirente pretende obter ||||
 
+# Teste 2 - Cadastro e Login
+||||||
+|--|--|--|--|--|
+|**Cadastro e Login**|A aplicação foi responsiva?|O tempo de resposta da aplicação foi satisfatório?|As informações foram claras?|
+|O usuário que realizou devidamente seu cadastro deverá simular o seu login, devendo inserir seu e-mail e sua senha cadastrada, nas abas designadas "e-mail" e "senha"|||||
+|O usuário deverá realizar a simulação de um novo cadastro preenchendo as informações requeridas.|||||
 
