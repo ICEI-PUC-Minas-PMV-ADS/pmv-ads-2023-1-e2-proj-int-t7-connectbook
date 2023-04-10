@@ -1,12 +1,43 @@
 # Plano de Testes de Usabilidade
 
-Os testes de usabilidade permitem avaliar a qualidade da interface com o usuário da aplicação interativa.
+Os testes de usabilidade permitem avaliar a qualidade da interface com o usuário da aplicação interativa. Este plano de testes busca definir possíveis critérios para realização de teste futuros.
 
-Um plano de teste de usabilidade deverá conter: o detalhamento dos objetivos (em função dos requisitos levantados/implementados), dos critérios que serão utilizados para a seleção dos participantes, dos procedimentos a serem adotados pelos condutores de teste (por exemplo: os testes serão presenciais ou remotos? o método será observação direta, medição ou avaliação?), das tarefas a serem executadas, dos dados a serem coletados (quantidade de cliques, número de erros, tempo etc.), a ordem de execução das tarefas e das etapas da sessão de teste, recursos demandados, métricas coletadas etc.
 
-Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos, mas não se esqueça: atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível, que permita identificar o voluntário, deverá ser apresentado).
+## Objetivos Principais Dos Testes
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+
+|ID    | Objetivo | 
+|------|-----------------------------------------|
+|RF-001| A aplicação deve permitir, criar, excluir, editar e gerenciar os livros para doação. |
+|RF-002| A aplicação deve permitir o usuário se cadastrar e escolher em qual tipo de usuário se enquadra. Doador ou receptor. |
+|RF-003| A aplicação deve conter login com email e senha. |
+|RF-004| A aplicação deve permitir a busca por livros de interesse do receptor. |
+|RF-005| A aplicação deve permitir o registro de interesse a determinado livro por parte do receptor. |
+|RF-006| A aplicação deverá fornecer uma forma de comunicação entre usuário doador e usuário receptor, ainda que por meio do uso de aplicações terceiras.  |
+
+
+## Atividades Planejadas Para o Usuário
+
+O objetivo das atividades será de encontrar quaisquer dificuldades que os usuários encontrarem durante a utilização da aplicação.
+
+
+## Perfil De Usuários Para Testes
+
+Definimos o perfil de usuários como aqueles que tenham interesse em buscar livros ou doar, fazendo jus ao próposito da aplicação.
+
+
+## Equipamentos e Softwares Utilizados Para os Testes
+
+* Computadores
+* Conexão a Internet
+* Navegadores de internet: Mozilla Firefox, Google Chrome, Opera.
+
+
+## Relatório De Dados
+
+Os testes de usabilidades serão executados remotamente e os relatórios serão preenchidos ao final dos testes.
+
+
 # Teste 1 - Usabilidade da Página Inicial
 ||||||
 |--|--|--|--|--|
