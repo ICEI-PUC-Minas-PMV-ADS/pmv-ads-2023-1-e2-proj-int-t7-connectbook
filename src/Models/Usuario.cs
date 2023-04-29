@@ -12,28 +12,44 @@ namespace connectbook.Models
     {
         [Key]
         public int Id { get; set; }
-        [ForeignKey("Contato")]
+
         public int IdContato { get; set; }
-        [ForeignKey("Endereco")]
+        [ForeignKey("IdContato")]
+        public Contato Contato { get; set; }
+
         public int IdEndereco { get; set; }
+        [ForeignKey("IdEndereco")]
+        public Endereco Endereco { get; set; }
+        
+        [Display(Name = "Nome")]
+        [Required]
         public string Nome { get; set; }
+
+        [Display(Name = "Email")]
+        [Required]
         public string Email { get; set; }
+
+        [Display(Name = "Senha")]
+        [Required]
         public string Senha { get; set; }
-        public string DataNascimento { get; set; }
-        public string DataRegistro { get; set; }
+
+        [Display(Name = "Data de nascimento")]
+        public DateTime DataNascimento { get; set; }
+
+        public DateTime DataRegistro { get; set; }
+
+        [Display(Name = "Descrição")]
         public string Descricao { get; set; }
-        public string TipoUsuario { get; set; }
 
-        public Usuario(string Nome, string Email, string Senha, string DataNascimento, string DataRegistro, string Descricao, string TipoUsuario)
+        [Display(Name = "Tipo de usuário")]
+        public EnumTipoUsuario TipoUsuario { get; set; }
+
+        public ICollection<Contato> Contatos { get; set; }
+
+        public enum EnumTipoUsuario
         {
-            this.Nome = Nome;
-            this.Email = Email;
-            this.Senha = Senha;
-            this.DataNascimento = DataNascimento;
-            this.DataRegistro = DataRegistro;
-            this.Descricao = Descricao;
-            this.TipoUsuario = TipoUsuario;
+            Doador,
+            Receptor
         }
-
     }
 }

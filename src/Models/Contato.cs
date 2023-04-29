@@ -12,15 +12,15 @@ namespace connectbook.Models
     {
         [Key]
         public int Id { get; set; }
-        [ForeignKey("Telefone")]
+        
         public int IdTelefone { get; set; }
-        public string Email { get; set; }
-        public string Disponibilidade { get; set; }
+        [ForeignKey("IdTelefone")]
+        public Telefone Telefone { get; set; }
 
-        public Contato(string Email, string Disponibilidade)
-        {
-            this.Email = Email;
-            this.Disponibilidade = Disponibilidade;
-        }
+        [Display(Name = "Email de contato")]
+        public string Email { get; set; }
+
+        [Display(Name = "Disponibilidade")]
+        public string Disponibilidade { get; set; }
     }
 }

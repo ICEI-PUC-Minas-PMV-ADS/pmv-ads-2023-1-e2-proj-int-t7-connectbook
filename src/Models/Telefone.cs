@@ -12,7 +12,13 @@ namespace connectbook.Models
     {
         [Key]
         public int Id { get; set; }
+
+        [Display(Name = "DDD")]
+        [Required]
         public int Ddd { get; set; }
+
+        [Display(Name = "Número do telefone")]
+        [Required]
         public int Numero { get; set; }
 
     }

@@ -12,17 +12,17 @@ namespace connectbook.Models
     {
         [Key]
         public int Id { get; set; }
-        public string Cep { get; set; }
-        public string Cidade { get; set; }
-        public string Estado { get; set; }
-        public string Bairro { get; set; }
 
-        public Endereco(string Cep, string Cidade, string Estado, string Bairro)
-        {
-            this.Cep = Cep;
-            this.Cidade = Cidade;
-            this.Estado = Estado;
-            this.Bairro = Bairro;
-        }
+        [Display(Name = "Cep")]
+        public string Cep { get; set; }
+
+        [Display(Name = "Cidade")]
+        public string Cidade { get; set; }
+
+        [Display(Name = "Estado")]
+        public string Estado { get; set; }
+
+        [Display(Name = "Bairro")]
+        public string Bairro { get; set; }
     }
 }

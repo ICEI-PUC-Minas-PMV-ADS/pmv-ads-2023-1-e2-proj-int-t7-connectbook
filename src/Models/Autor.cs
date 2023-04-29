@@ -12,18 +12,16 @@ namespace connectbook.Models
     {
         [Key]
         public int Id { get; set; }
+        [Display(Name = "Nome do autor")]
         public string Nome { get; set; }
+
+        [Display(Name = "Breve introducao sobre o autor")]
         public string Introducao { get; set; }
+
+        [Display(Name = "Data de nascimento")]
         public DateTime DataNascimento { get; set; }
+
+        [Display(Name = "Data de falecimento")]
         public DateTime DataFalecimento { get; set; }
-
-        public Autor(string Nome, string Introducao, DateTime DataNascimento, DateTime DataFalecimento)
-        {
-            this.Nome = Nome;
-            this.Introducao = Introducao;
-            this.DataNascimento = DataNascimento;
-            this.DataFalecimento = DataFalecimento;
-        }
-
     }
 }
