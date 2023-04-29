@@ -1,0 +1,88 @@
+﻿@model connectbook.Models.Livro
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Livro</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="id_usuario" class="control-label"></label>
+                <input asp-for="id_usuario" class="form-control" />
+                <span asp-validation-for="id_usuario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="id_categoria" class="control-label"></label>
+                <input asp-for="id_categoria" class="form-control" />
+                <span asp-validation-for="id_categoria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="id_autor" class="control-label"></label>
+                <input asp-for="id_autor" class="form-control" />
+                <span asp-validation-for="id_autor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nome" class="control-label"></label>
+                <input asp-for="nome" class="form-control" />
+                <span asp-validation-for="nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="estado_conservacao" class="control-label"></label>
+                <input asp-for="estado_conservacao" class="form-control" />
+                <span asp-validation-for="estado_conservacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="data_publicacao" class="control-label"></label>
+                <input asp-for="data_publicacao" class="form-control" />
+                <span asp-validation-for="data_publicacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="isbn" class="control-label"></label>
+                <input asp-for="isbn" class="form-control" />
+                <span asp-validation-for="isbn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="classificacao_indicativa" class="control-label"></label>
+                <input asp-for="classificacao_indicativa" class="form-control" />
+                <span asp-validation-for="classificacao_indicativa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="foto" class="control-label"></label>
+                <input asp-for="foto" class="form-control" />
+                <span asp-validation-for="foto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="resumo" class="control-label"></label>
+                <input asp-for="resumo" class="form-control" />
+                <span asp-validation-for="resumo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="qtd_paginas" class="control-label"></label>
+                <input asp-for="qtd_paginas" class="form-control" />
+                <span asp-validation-for="qtd_paginas" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="disponivel_doacao" /> @Html.DisplayNameFor(model => model.disponivel_doacao)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

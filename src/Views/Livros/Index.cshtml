@@ -1,0 +1,101 @@
+﻿@model IEnumerable<connectbook.Models.Livro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id_usuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.id_categoria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.id_autor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.estado_conservacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.data_publicacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isbn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.classificacao_indicativa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.foto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.resumo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.qtd_paginas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.disponivel_doacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_usuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_categoria)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_autor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.estado_conservacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.data_publicacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isbn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.classificacao_indicativa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.foto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.resumo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.qtd_paginas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.disponivel_doacao)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
