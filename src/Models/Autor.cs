@@ -14,10 +14,10 @@ namespace connectbook.Models
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Introducao { get; set; }
-        public string DataNascimento { get; set; }
-        public string DataFalecimento { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public DateTime DataFalecimento { get; set; }
 
-        public Autor(string Nome, string Introducao, string DataNascimento, string DataFalecimento)
+        public Autor(string Nome, string Introducao, DateTime DataNascimento, DateTime DataFalecimento)
         {
             this.Nome = Nome;
             this.Introducao = Introducao;

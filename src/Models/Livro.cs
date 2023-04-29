@@ -16,8 +16,8 @@ namespace connectbook.Models
         public int IdCategoria { get; set; }
         public int IdAutor { get; set; }
         public string Nome { get; set; }
-        public string EstadoConservacao { get; set; }
-        public string? DataPublicacao { get; set; }
+        public EnumEstadoConservacao EstadoConservacao { get; set; }
+        public DateTime? DataPublicacao { get; set; }
         public string? Isbn { get; set; }
         public int ClassificacaoIndicativa { get; set; }
         public string? Foto { get; set; }
@@ -25,10 +25,20 @@ namespace connectbook.Models
         public int QtdPaginas { get; set; }
         public bool DisponivelDoacao { get; set; }
 
-        public Livro(string Nome, string EstadoConservacao)
+        public enum EnumEstadoConservacao
+        {
+            Ruim,
+            Mediano,
+            Bom,
+            Ótimo
+        }
+
+        public Livro(string Nome, EnumEstadoConservacao EstadoConservacao)
         {
             this.Nome = Nome;
             this.EstadoConservacao = EstadoConservacao;
         }
+
+      
     }
 }
