@@ -11,18 +11,18 @@ namespace connectbook.Models
     public class Autor
     {
         [Key]
-        public int id { get; set; }
-        public string nome { get; set; }
-        public string introducao { get; set; }
-        public string data_nascimento { get; set; }
-        public string data_falecimento { get; set; }
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Introducao { get; set; }
+        public string DataNascimento { get; set; }
+        public string DataFalecimento { get; set; }
 
-        public Autor(string nome, string introducao, string data_nascimento, string data_falecimento)
+        public Autor(string Nome, string Introducao, string DataNascimento, string DataFalecimento)
         {
-            this.nome = nome;
-            this.introducao = introducao;
-            this.data_nascimento = data_nascimento;
-            this.data_falecimento = data_falecimento;
+            this.Nome = Nome;
+            this.Introducao = Introducao;
+            this.DataNascimento = DataNascimento;
+            this.DataFalecimento = DataFalecimento;
         }
 
     }

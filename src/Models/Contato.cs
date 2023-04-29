@@ -11,16 +11,16 @@ namespace connectbook.Models
     public class Contato
     {
         [Key]
-        public int id { get; set; }
+        public int Id { get; set; }
         [ForeignKey("Telefone")]
-        public int id_telefone { get; set; }
-        public string email { get; set; }
-        public string disponibilidade { get; set; }
+        public int IdTelefone { get; set; }
+        public string Email { get; set; }
+        public string Disponibilidade { get; set; }
 
-        public Contato(string email, string disponibilidade)
+        public Contato(string Email, string Disponibilidade)
         {
-            this.email = email;
-            this.disponibilidade = disponibilidade;
+            this.Email = Email;
+            this.Disponibilidade = Disponibilidade;
         }
     }
 }

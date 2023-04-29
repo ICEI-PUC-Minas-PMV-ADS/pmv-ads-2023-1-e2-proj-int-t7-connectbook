@@ -11,18 +11,18 @@ namespace connectbook.Models
     public class Endereco
     {
         [Key]
-        public int id { get; set; }
-        public string cep { get; set; }
-        public string cidade { get; set; }
-        public string estado { get; set; }
-        public string bairro { get; set; }
+        public int Id { get; set; }
+        public string Cep { get; set; }
+        public string Cidade { get; set; }
+        public string Estado { get; set; }
+        public string Bairro { get; set; }
 
-        public Endereco(string cep, string cidade, string estado, string bairro)
+        public Endereco(string Cep, string Cidade, string Estado, string Bairro)
         {
-            this.cep = cep;
-            this.cidade = cidade;
-            this.estado = estado;
-            this.bairro = bairro;
+            this.Cep = Cep;
+            this.Cidade = Cidade;
+            this.Estado = Estado;
+            this.Bairro = Bairro;
         }
     }
 }

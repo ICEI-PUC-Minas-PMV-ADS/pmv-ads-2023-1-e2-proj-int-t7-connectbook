@@ -11,28 +11,28 @@ namespace connectbook.Models
     public class Usuario
     {
         [Key]
-        public int id { get; set; }
+        public int Id { get; set; }
         [ForeignKey("Contato")]
-        public int id_contato { get; set; }
+        public int IdContato { get; set; }
         [ForeignKey("Endereco")]
-        public int id_endereco { get; set; }
-        public string nome { get; set; }
-        public string email { get; set; }
-        public string senha { get; set; }
-        public string data_nascimento { get; set; }
-        public string data_registro { get; set; }
-        public string descricao { get; set; }
-        public string tipo_usuario { get; set; }
+        public int IdEndereco { get; set; }
+        public string Nome { get; set; }
+        public string Email { get; set; }
+        public string Senha { get; set; }
+        public string DataNascimento { get; set; }
+        public string DataRegistro { get; set; }
+        public string Descricao { get; set; }
+        public string TipoUsuario { get; set; }
 
-        public Usuario(string nome, string email, string senha, string data_nascimento, string data_registro, string descricao, string tipo_usuario)
+        public Usuario(string Nome, string Email, string Senha, string DataNascimento, string DataRegistro, string Descricao, string TipoUsuario)
         {
-            this.nome = nome;
-            this.email = email;
-            this.senha = senha;
-            this.data_nascimento = data_nascimento;
-            this.data_registro = data_registro;
-            this.descricao = descricao;
-            this.tipo_usuario = tipo_usuario;
+            this.Nome = Nome;
+            this.Email = Email;
+            this.Senha = Senha;
+            this.DataNascimento = DataNascimento;
+            this.DataRegistro = DataRegistro;
+            this.Descricao = Descricao;
+            this.TipoUsuario = TipoUsuario;
         }
 
     }

@@ -13,40 +13,40 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.id_usuario)
+                @Html.DisplayNameFor(model => model.IdUsuario)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.id_categoria)
+                @Html.DisplayNameFor(model => model.IdCategoria)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.id_autor)
+                @Html.DisplayNameFor(model => model.IdAutor)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.nome)
+                @Html.DisplayNameFor(model => model.Nome)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.estado_conservacao)
+                @Html.DisplayNameFor(model => model.EstadoConservacao)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.data_publicacao)
+                @Html.DisplayNameFor(model => model.DataPublicacao)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.isbn)
+                @Html.DisplayNameFor(model => model.Isbn)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.classificacao_indicativa)
+                @Html.DisplayNameFor(model => model.ClassificacaoIndicativa)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.foto)
+                @Html.DisplayNameFor(model => model.Foto)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.resumo)
+                @Html.DisplayNameFor(model => model.Resumo)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.qtd_paginas)
+                @Html.DisplayNameFor(model => model.QtdPaginas)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.disponivel_doacao)
+                @Html.DisplayNameFor(model => model.DisponivelDoacao)
             </th>
             <th></th>
         </tr>
@@ -55,40 +55,40 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.id_usuario)
+                @Html.DisplayFor(modelItem => item.IdUsuario)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.id_categoria)
+                @Html.DisplayFor(modelItem => item.IdCategoria)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.id_autor)
+                @Html.DisplayFor(modelItem => item.IdAutor)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.nome)
+                @Html.DisplayFor(modelItem => item.Nome)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.estado_conservacao)
+                @Html.DisplayFor(modelItem => item.EstadoConservacao)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.data_publicacao)
+                @Html.DisplayFor(modelItem => item.DataPublicacao)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.isbn)
+                @Html.DisplayFor(modelItem => item.Isbn)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.classificacao_indicativa)
+                @Html.DisplayFor(modelItem => item.ClassificacaoIndicativa)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.foto)
+                @Html.DisplayFor(modelItem => item.Foto)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.resumo)
+                @Html.DisplayFor(modelItem => item.Resumo)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.qtd_paginas)
+                @Html.DisplayFor(modelItem => item.QtdPaginas)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.disponivel_doacao)
+                @Html.DisplayFor(modelItem => item.DisponivelDoacao)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

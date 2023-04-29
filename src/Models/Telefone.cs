@@ -11,9 +11,9 @@ namespace connectbook.Models
     public class Telefone
     {
         [Key]
-        public int id { get; set; }
-        public int ddd { get; set; }
-        public int numero { get; set; }
+        public int Id { get; set; }
+        public int Ddd { get; set; }
+        public int Numero { get; set; }
 
     }
 }

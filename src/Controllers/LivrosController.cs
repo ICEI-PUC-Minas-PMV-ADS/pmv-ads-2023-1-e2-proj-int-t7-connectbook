@@ -55,7 +55,7 @@ namespace connectbook.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,id_usuario,id_categoria,id_autor,nome,estado_conservacao,data_publicacao,isbn,classificacao_indicativa,foto,resumo,qtd_paginas,disponivel_doacao")] Livro livro)
+        public async Task<IActionResult> Create([Bind("Id,IdUsuario,IdCategoria,IdAutor,Nome,EstadoConservacao,DataPublicacao,Isbn,ClassificacaoIndicativa,Foto,Resumo,QtdPaginas,DisponivelDoacao")] Livro livro)
         {
             if (ModelState.IsValid)
             {
@@ -87,7 +87,7 @@ namespace connectbook.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,id_usuario,id_categoria,id_autor,nome,estado_conservacao,data_publicacao,isbn,classificacao_indicativa,foto,resumo,qtd_paginas,disponivel_doacao")] Livro livro)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,IdUsuario,IdCategoria,IdAutor,Nome,EstadoConservacao,DataPublicacao,Isbn,ClassificacaoIndicativa,Foto,Resumo,QtdPaginas,DisponivelDoacao")] Livro livro)
         {
             if (id != livro.Id)
             {
